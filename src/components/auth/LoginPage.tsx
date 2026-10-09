@@ -12,12 +12,12 @@ interface LoginPageProps {
 
 const DEMO_CREDENTIALS = {
   customer: {
-    email: 'customer@pixe.co',
-    password: 'YOUR_CUSTOMER_PASSWORD',
+    email: 'collector@pixe.co',
+    password: 'archival2026!',
   },
   admin: {
     email: 'admin@pixe.co',
-    password: 'YOUR_ADMIN_PASSWORD',
+    password: '',
   },
 } as const;
 
@@ -41,7 +41,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onBackToLanding, onLoginSu
   const [signupPassword, setSignupPassword] = useState('');
 
   // Target role for testing
-  const [targetRole, setTargetRole] = useState<'customer' | 'admin'>('admin');
+  const [targetRole, setTargetRole] = useState<'customer' | 'admin'>('customer');
 
   // Animation states
   const [authStatus, setAuthStatus] = useState<'idle' | 'authenticating' | 'success'>('idle');
