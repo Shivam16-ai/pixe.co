@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="cr7-bg" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#3A1C1A" />
+      <stop offset="50%" stop-color="#1A0D0C" />
+      <stop offset="100%" stop-color="#080404" />
+    </radialGradient>
+    <linearGradient id="cr7-red" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C70039" />
+      <stop offset="100%" stop-color="#900C3F" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="800" fill="url(#cr7-bg)" />
+  
+  <!-- Red & Gold Energy Flare -->
+  <circle cx="400" cy="300" r="200" fill="#FFC300" opacity="0.1" filter="blur(35px)" />
+  <circle cx="400" cy="380" r="160" fill="#C70039" opacity="0.15" filter="blur(30px)" />
+
+  <!-- Cristiano Ronaldo Figure: The Iconic SIUUU Celebration -->
+  <g id="ronaldo-figure" transform="translate(0, 0)">
+    
+    <!-- Torso: Portugal Red Jersey #7 (or All-White Madrid) -->
+    <path d="M 310,380 C 340,320 460,320 490,380 L 470,640 L 330,640 Z" fill="url(#cr7-red)" />
+    <!-- Gold / Green Accents -->
+    <line x1="320" y1="460" x2="480" y2="460" stroke="#006600" stroke-width="4" />
+    <text x="400" y="520" font-family="'Syne', sans-serif" font-weight="900" font-size="78" fill="#FFFFFF" text-anchor="middle">7</text>
+    <text x="400" y="440" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="16" fill="#F4B82A" text-anchor="middle" letter-spacing="4">RONALDO</text>
+
+    <!-- Shorts & Legs: Powerful Stance Landing -->
+    <path d="M 330,640 L 300,720 L 370,720 L 380,640 Z" fill="#006600" />
+    <path d="M 470,640 L 500,720 L 430,720 L 420,640 Z" fill="#006600" />
+    <!-- Toned Legs spread wide -->
+    <path d="M 300,720 L 260,800 L 320,800 L 350,720 Z" fill="#D39F75" />
+    <path d="M 500,720 L 540,800 L 480,800 L 450,720 Z" fill="#D39F75" />
+
+    <!-- Powerful Arms Thrust Downwards & Backwards (SIUU stance) -->
+    <!-- Left Arm -->
+    <path d="M 315,380 L 230,480 L 190,560 L 230,570 L 270,490 L 335,420 Z" fill="#C98B58" />
+    <circle cx="210" cy="565" r="18" fill="#C98B58" />
+    <!-- Right Arm -->
+    <path d="M 485,380 L 570,480 L 610,560 L 570,570 L 530,490 L 465,420 Z" fill="#C98B58" />
+    <circle cx="590" cy="565" r="18" fill="#C98B58" />
+
+    <!-- Head & Distinctive Cristiano Profile -->
+    <rect x="385" y="290" width="30" height="40" fill="#C98B58" />
+    <!-- Athletic Jaw & Cheekbones -->
+    <path d="M 365,240 C 365,180 435,180 435,240 C 435,295 365,295 365,240 Z" fill="#D89D6A" />
+    <!-- Iconic Styled Hair with High Fade & Texture -->
+    <path d="M 360,230 C 360,165 440,160 440,225 L 435,200 C 410,160 380,180 360,230 Z" fill="#1C1814" />
+    <!-- Clean Shaved athletic chin -->
+    <polygon points="390,285 410,285 400,295" fill="#C48450" />
+    <!-- Roaring / Passionate mouth "SIUUUU!" -->
+    <ellipse cx="400" cy="265" rx="12" ry="10" fill="#111111" />
+    <path d="M 390,260 L 410,260" stroke="#FFFFFF" stroke-width="3" />
+    <!-- Focused Eyes & Brow -->
+    <line x1="380" y1="230" x2="395" y2="235" stroke="#1C1814" stroke-width="4" />
+    <line x1="420" y1="230" x2="405" y2="235" stroke="#1C1814" stroke-width="4" />
+  </g>
+
+  <!-- Big SIUU typography overlay in background -->
+  <text x="400" y="170" font-family="'Syne', sans-serif" font-weight="900" font-size="84" fill="#FFFFFF" opacity="0.08" text-anchor="middle" letter-spacing="10">SIUUUU</text>
+
+  <!-- Corner Badge -->
+  <g transform="translate(40, 50)">
+    <rect width="210" height="34" rx="6" fill="#080404" opacity="0.8" stroke="#F4B82A" stroke-width="1.5" />
+    <text x="105" y="22" font-family="'Syne', sans-serif" font-weight="800" font-size="12" fill="#F4B82A" text-anchor="middle" letter-spacing="1">CRISTIANO RONALDO · #7</text>
+  </g>
+</svg>

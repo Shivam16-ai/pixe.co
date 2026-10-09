@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="dhoni-bg" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#1B263B" />
+      <stop offset="50%" stop-color="#0D1B2A" />
+      <stop offset="100%" stop-color="#050B14" />
+    </radialGradient>
+    <linearGradient id="dhoni-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#005A9E" />
+      <stop offset="100%" stop-color="#002244" />
+    </linearGradient>
+    <linearGradient id="trophy-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE066" />
+      <stop offset="60%" stop-color="#F4B82A" />
+      <stop offset="100%" stop-color="#996D00" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="800" fill="url(#dhoni-bg)" />
+  
+  <!-- Wankhede Stadium 2011 Fireworks in Background -->
+  <circle cx="650" cy="150" r="140" fill="#F4B82A" opacity="0.15" filter="blur(25px)" />
+  <circle cx="150" cy="200" r="120" fill="#00A8FF" opacity="0.1" filter="blur(20px)" />
+
+  <!-- MS Dhoni Figure: Iconic Helicopter Finish -->
+  <g id="dhoni-figure" transform="translate(10, 10)">
+    <!-- Back Leg Rooted in Crease -->
+    <path d="M 330,520 L 300,680 L 250,685 L 280,530 Z" fill="#EAE5D9" stroke="#002244" stroke-width="4" />
+    <!-- Front Leg Bent in Power Stance -->
+    <path d="M 450,520 L 480,670 L 540,665 L 480,500 Z" fill="#F4F1EA" stroke="#002244" stroke-width="4" />
+    
+    <!-- Torso: India Jersey #7 -->
+    <path d="M 360,330 C 380,290 460,290 480,330 L 475,510 L 360,510 Z" fill="url(#dhoni-blue)" />
+    <!-- Jersey Saffron Collar Accent -->
+    <path d="M 395,295 L 440,295 L 450,330 L 385,330 Z" fill="#FF9933" />
+    <text x="415" y="420" font-family="'Syne', sans-serif" font-weight="900" font-size="68" fill="#FFFFFF" text-anchor="middle">7</text>
+    <text x="415" y="355" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="18" fill="#FF9933" text-anchor="middle" letter-spacing="4">DHONI</text>
+    <text x="415" y="460" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="13" fill="#E8DDC8" text-anchor="middle" letter-spacing="3">INDIA</text>
+
+    <!-- Arms: Classic 360-degree Helicopter Follow-Through -->
+    <!-- Wrists rotated overhead -->
+    <path d="M 470,330 L 530,280 L 500,230 L 440,280 Z" fill="#BA8253" />
+    <path d="M 365,330 L 340,280 L 410,230 L 430,270 Z" fill="#A87243" />
+    <!-- Gloves -->
+    <circle cx="455" cy="225" r="22" fill="#005A9E" stroke="#FFFFFF" stroke-width="3" />
+    <circle cx="485" cy="220" r="20" fill="#005A9E" stroke="#FFFFFF" stroke-width="3" />
+
+    <!-- Reebok Bat completing the overhead circular helicopter arc -->
+    <line x1="475" y1="215" x2="420" y2="120" stroke="#E6D3A3" stroke-width="12" stroke-linecap="round" />
+    <!-- Bat blade curving backward behind shoulder -->
+    <polygon points="420,120 400,105 240,60 260,85" fill="#E6C894" stroke="#8C6239" stroke-width="3" />
+    <!-- RBK blue stripe on bat -->
+    <polygon points="380,115 365,100 320,80 330,95" fill="#005A9E" />
+
+    <!-- Head & Blue Helmet -->
+    <rect x="395" y="270" width="30" height="30" fill="#BA8253" />
+    <circle cx="410" cy="235" r="48" fill="#071930" stroke="#FF9933" stroke-width="3" />
+    <!-- Captain Cool Focused Jaw & Grille -->
+    <path d="M 400,250 C 420,255 435,250 445,235 L 440,265 C 425,275 405,275 395,265 Z" fill="#15120F" />
+    <path d="M 410,235 L 450,240 L 445,265 L 415,265" fill="none" stroke="#C0C0C0" stroke-width="3" />
+  </g>
+
+  <!-- World Cup Trophy Silhouette in Background -->
+  <g transform="translate(620, 260) scale(0.65)" opacity="0.35">
+    <path d="M 50,20 C 60,60 90,80 90,120 L 70,220 L 30,220 L 10,120 C 10,80 40,60 50,20 Z" fill="url(#trophy-gold)" />
+    <circle cx="50" cy="30" r="30" fill="url(#trophy-gold)" />
+  </g>
+
+  <!-- Badge in Corner -->
+  <g transform="translate(40, 50)">
+    <rect width="180" height="34" rx="6" fill="#070B14" opacity="0.8" stroke="#F4B82A" stroke-width="1.5" />
+    <text x="90" y="22" font-family="'Syne', sans-serif" font-weight="800" font-size="12" fill="#F4B82A" text-anchor="middle" letter-spacing="1">MS DHONI · #7</text>
+  </g>
+</svg>

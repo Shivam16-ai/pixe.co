@@ -1,0 +1,1757 @@
+{
+  "sasuke uchiha": {
+    "name": "Sasuke Uchiha",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png",
+    "franchise": "naruto_og"
+  },
+  "itachi uchiha": {
+    "name": "Itachi Uchiha",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png",
+    "franchise": "naruto_og"
+  },
+  "naruto uzumaki": {
+    "name": "Naruto Uzumaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "franchise": "naruto_og"
+  },
+  "kakashi hatake": {
+    "name": "Kakashi Hatake",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png",
+    "franchise": "naruto_og"
+  },
+  "sakura haruno": {
+    "name": "Sakura Haruno",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+    "franchise": "naruto_og"
+  },
+  "rock lee": {
+    "name": "Rock Lee",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png",
+    "franchise": "naruto_og"
+  },
+  "guy might": {
+    "name": "Guy Might",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307-xieUEdhdTVwQ.png",
+    "franchise": "naruto_og"
+  },
+  "zabuza momochi": {
+    "name": "Zabuza Momochi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b728-zHw77BzLzQKT.jpg",
+    "franchise": "naruto_og"
+  },
+  "anko mitarashi": {
+    "name": "Anko Mitarashi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b809-FhWTN0LFVzRa.png",
+    "franchise": "naruto_og"
+  },
+  "hinata hyuuga": {
+    "name": "Hinata Hyuuga",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png",
+    "franchise": "naruto_og"
+  },
+  "gaara": {
+    "name": "Gaara",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png",
+    "franchise": "naruto_og"
+  },
+  "neji hyuuga": {
+    "name": "Neji Hyuuga",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg",
+    "franchise": "naruto_og"
+  },
+  "sasori": {
+    "name": "Sasori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1900-Dpd9wVWtlvIx.png",
+    "franchise": "naruto"
+  },
+  "sai": {
+    "name": "Sai",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1901-vJRGRONNpaiG.jpg",
+    "franchise": "naruto"
+  },
+  "deidara": {
+    "name": "Deidara",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1902-JsEFRFwjmtZJ.png",
+    "franchise": "naruto_og"
+  },
+  "suigetsu houzuki": {
+    "name": "Suigetsu Houzuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1903.jpg",
+    "franchise": "naruto"
+  },
+  "yamato": {
+    "name": "Yamato",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2006-FTCz2Eu3cXsI.png",
+    "franchise": "naruto"
+  },
+  "shikamaru nara": {
+    "name": "Shikamaru Nara",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg",
+    "franchise": "naruto_og"
+  },
+  "chouji akimichi": {
+    "name": "Chouji Akimichi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2008-j1oCafEGZucg.png",
+    "franchise": "naruto_og"
+  },
+  "ino yamanaka": {
+    "name": "Ino Yamanaka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg",
+    "franchise": "naruto_og"
+  },
+  "iruka umino": {
+    "name": "Iruka Umino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2011-WUBm7wMCA6cE.png",
+    "franchise": "naruto_og"
+  },
+  "haku": {
+    "name": "Haku",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png",
+    "franchise": "naruto_og"
+  },
+  "temari": {
+    "name": "Temari",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png",
+    "franchise": "naruto_og"
+  },
+  "kabuto yakushi": {
+    "name": "Kabuto Yakushi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2405-CqbcGW2tfaMV.png",
+    "franchise": "naruto_og"
+  },
+  "jiraiya": {
+    "name": "Jiraiya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png",
+    "franchise": "naruto_og"
+  },
+  "orochimaru": {
+    "name": "Orochimaru",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2455-V9tLMS3TIgJW.png",
+    "franchise": "naruto_og"
+  },
+  "minato namikaze": {
+    "name": "Minato Namikaze",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png",
+    "franchise": "naruto_og"
+  },
+  "kisame hoshigaki": {
+    "name": "Kisame Hoshigaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2672-oxbHx8n3N7WY.jpg",
+    "franchise": "naruto_og"
+  },
+  "pakkun": {
+    "name": "Pakkun",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2766-kJfGu56HevA0.png",
+    "franchise": "naruto_og"
+  },
+  "tanjirou kamado": {
+    "name": "Tanjirou Kamado",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+    "franchise": "demon_slayer"
+  },
+  "nezuko kamado": {
+    "name": "Nezuko Kamado",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
+    "franchise": "demon_slayer"
+  },
+  "inosuke hashibira": {
+    "name": "Inosuke Hashibira",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
+    "franchise": "demon_slayer"
+  },
+  "zenitsu agatsuma": {
+    "name": "Zenitsu Agatsuma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
+    "franchise": "demon_slayer"
+  },
+  "muzan kibutsuji": {
+    "name": "Muzan Kibutsuji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129132-4nIZakUZ1o8W.jpg",
+    "franchise": "demon_slayer"
+  },
+  "kyoujurou rengoku": {
+    "name": "Kyoujurou Rengoku",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png",
+    "franchise": "demon_slayer"
+  },
+  "giyuu tomioka": {
+    "name": "Giyuu Tomioka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png",
+    "franchise": "demon_slayer"
+  },
+  "muichirou tokitou": {
+    "name": "Muichirou Tokitou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
+    "franchise": "demon_slayer"
+  },
+  "shinobu kochou": {
+    "name": "Shinobu Kochou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png",
+    "franchise": "demon_slayer"
+  },
+  "tengen uzui": {
+    "name": "Tengen Uzui",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
+    "franchise": "demon_slayer"
+  },
+  "mitsuri kanroji": {
+    "name": "Mitsuri Kanroji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
+    "franchise": "demon_slayer"
+  },
+  "sakonji urokodaki": {
+    "name": "Sakonji Urokodaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137773-N4O52f73dJKZ.png",
+    "franchise": "demon_slayer"
+  },
+  "sanemi shinazugawa": {
+    "name": "Sanemi Shinazugawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
+    "franchise": "demon_slayer"
+  },
+  "jigorou kuwajima": {
+    "name": "Jigorou Kuwajima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137775-WVj9nyVaYo45.png",
+    "franchise": "demon_slayer"
+  },
+  "genya shinazugawa": {
+    "name": "Genya Shinazugawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137776-E0QuFD7y19OQ.jpg",
+    "franchise": "demon_slayer"
+  },
+  "obanai iguro": {
+    "name": "Obanai Iguro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
+    "franchise": "demon_slayer"
+  },
+  "gyoumei himejima": {
+    "name": "Gyoumei Himejima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137778-H4Uzb9cSCvZ6.jpg",
+    "franchise": "demon_slayer"
+  },
+  "makomo": {
+    "name": "Makomo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137806-43Lqae34Vzqu.png",
+    "franchise": "demon_slayer"
+  },
+  "kagaya ubuyashiki": {
+    "name": "Kagaya Ubuyashiki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137808-4yA8XQUDrAho.png",
+    "franchise": "demon_slayer"
+  },
+  "sabito": {
+    "name": "Sabito",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137809-6Tkle99lCBl8.png",
+    "franchise": "demon_slayer"
+  },
+  "matsuemon tennouji": {
+    "name": "Matsuemon Tennouji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137810-x5JEOQTuxd86.png",
+    "franchise": "demon_slayer"
+  },
+  "susamaru": {
+    "name": "Susamaru",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138810-1d6mUy8lzr8K.png",
+    "franchise": "demon_slayer"
+  },
+  "yahaba": {
+    "name": "Yahaba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138811-V9NNgNp9dAjq.png",
+    "franchise": "demon_slayer"
+  },
+  "numa oni": {
+    "name": "Numa Oni",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138812-Imqj3sSfpcso.jpg",
+    "franchise": "demon_slayer"
+  },
+  "yushirou": {
+    "name": "Yushirou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138846-i8frJEl8baly.jpg",
+    "franchise": "demon_slayer"
+  },
+  "gokuu son": {
+    "name": "Gokuu Son",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "franchise": "dragon_ball"
+  },
+  "pu'ar": {
+    "name": "Pu'ar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg",
+    "franchise": "dragon_ball"
+  },
+  "bulma": {
+    "name": "Bulma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg",
+    "franchise": "dragon_ball"
+  },
+  "vegeta": {
+    "name": "Vegeta",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png",
+    "franchise": "dragon_ball"
+  },
+  "piccolo": {
+    "name": "Piccolo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg",
+    "franchise": "dragon_ball"
+  },
+  "majin boo": {
+    "name": "Majin Boo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1012.jpg",
+    "franchise": "dragon_ball"
+  },
+  "gohan son": {
+    "name": "Gohan Son",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2104.jpg",
+    "franchise": "dragon_ball"
+  },
+  "gyuumaou": {
+    "name": "Gyuumaou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2094.jpg",
+    "franchise": "dragon_ball"
+  },
+  "suno": {
+    "name": "Suno",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2095.jpg",
+    "franchise": "dragon_ball"
+  },
+  "upa": {
+    "name": "Upa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2096.jpg",
+    "franchise": "dragon_ball"
+  },
+  "yajirobe": {
+    "name": "Yajirobe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2097.jpg",
+    "franchise": "dragon_ball"
+  },
+  "jinzouningen 16-gou": {
+    "name": "Jinzouningen 16-gou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2099.jpg",
+    "franchise": "dragon_ball"
+  },
+  "bee": {
+    "name": "Bee",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2100.jpg",
+    "franchise": "dragon_ball"
+  },
+  "bora": {
+    "name": "Bora",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2101-VF2lGo5GXtkT.png",
+    "franchise": "dragon_ball"
+  },
+  "chi-chi": {
+    "name": "Chi-Chi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2102.jpg",
+    "franchise": "dragon_ball"
+  },
+  "briefs hakase": {
+    "name": "Briefs Hakase",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2103.jpg",
+    "franchise": "dragon_ball"
+  },
+  "lunch": {
+    "name": "Lunch",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2105-u5dq4fBpSho9.png",
+    "franchise": "dragon_ball"
+  },
+  "marron": {
+    "name": "Marron",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2106.jpg",
+    "franchise": "dragon_ball"
+  },
+  "bulma no mama": {
+    "name": "Bulma no Mama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2107.jpg",
+    "franchise": "dragon_ball"
+  },
+  "oolong": {
+    "name": "Oolong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg",
+    "franchise": "dragon_ball"
+  },
+  "tenkaichi budokai announcer": {
+    "name": "Tenkaichi Budokai Announcer",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2109.jpg",
+    "franchise": "dragon_ball"
+  },
+  "baba uranai": {
+    "name": "Baba Uranai",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2110.jpg",
+    "franchise": "dragon_ball"
+  },
+  "videl": {
+    "name": "Videl",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2111-9XqkV0tpjRPB.png",
+    "franchise": "dragon_ball"
+  },
+  "umigame": {
+    "name": "Umigame",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2112.jpg",
+    "franchise": "dragon_ball"
+  },
+  "megumi fushiguro": {
+    "name": "Megumi Fushiguro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+    "franchise": "jjk"
+  },
+  "yuuji itadori": {
+    "name": "Yuuji Itadori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+    "franchise": "jjk"
+  },
+  "satoru gojou": {
+    "name": "Satoru Gojou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+    "franchise": "jjk"
+  },
+  "yuuta okkotsu": {
+    "name": "Yuuta Okkotsu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+    "franchise": "jjk"
+  },
+  "suguru getou": {
+    "name": "Suguru Getou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png",
+    "franchise": "jjk"
+  },
+  "nobara kugisaki": {
+    "name": "Nobara Kugisaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
+    "franchise": "jjk"
+  },
+  "sukuna": {
+    "name": "Sukuna",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png",
+    "franchise": "jjk"
+  },
+  "mahito": {
+    "name": "Mahito",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
+    "franchise": "jjk"
+  },
+  "kento nanami": {
+    "name": "Kento Nanami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+    "franchise": "jjk"
+  },
+  "maki zenin": {
+    "name": "Maki Zenin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png",
+    "franchise": "jjk"
+  },
+  "mai zenin": {
+    "name": "Mai Zenin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg",
+    "franchise": "jjk"
+  },
+  "panda": {
+    "name": "Panda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137974-9qnK3DPrvLKh.jpg",
+    "franchise": "jjk"
+  },
+  "aoi toudou": {
+    "name": "Aoi Toudou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png",
+    "franchise": "jjk"
+  },
+  "kasumi miwa": {
+    "name": "Kasumi Miwa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png",
+    "franchise": "jjk"
+  },
+  "jougo": {
+    "name": "Jougo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.png",
+    "franchise": "jjk"
+  },
+  "toge inumaki": {
+    "name": "Toge Inumaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
+    "franchise": "jjk"
+  },
+  "chousou": {
+    "name": "Chousou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png",
+    "franchise": "jjk"
+  },
+  "junpei yoshino": {
+    "name": "Junpei Yoshino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157214-ROBNoXVEXRNy.jpg",
+    "franchise": "jjk"
+  },
+  "mei mei": {
+    "name": "Mei Mei",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
+    "franchise": "jjk"
+  },
+  "utahime iori": {
+    "name": "Utahime Iori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
+    "franchise": "jjk"
+  },
+  "takuma ino": {
+    "name": "Takuma Ino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157865-X9ENX9OzWevS.jpg",
+    "franchise": "jjk"
+  },
+  "noritoshi  kamo": {
+    "name": "Noritoshi  Kamo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+    "franchise": "jjk"
+  },
+  "yoshinobu gakuganji": {
+    "name": "Yoshinobu Gakuganji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.png",
+    "franchise": "jjk"
+  },
+  "momo nishimiya": {
+    "name": "Momo Nishimiya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+    "franchise": "jjk"
+  },
+  "shouko ieiri": {
+    "name": "Shouko Ieiri",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+    "franchise": "jjk"
+  },
+  "narrator": {
+    "name": "Narrator",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "franchise": "spy_family"
+  },
+  "mikasa ackerman": {
+    "name": "Mikasa Ackerman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+    "franchise": "aot"
+  },
+  "eren yeager": {
+    "name": "Eren Yeager",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+    "franchise": "aot"
+  },
+  "levi": {
+    "name": "Levi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+    "franchise": "aot"
+  },
+  "sasha blouse": {
+    "name": "Sasha Blouse",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg",
+    "franchise": "aot"
+  },
+  "reiner braun": {
+    "name": "Reiner Braun",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+    "franchise": "aot"
+  },
+  "connie springer": {
+    "name": "Connie Springer",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+    "franchise": "aot"
+  },
+  "bertolt hoover": {
+    "name": "Bertolt Hoover",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46488-wm6HvkdkHoZu.jpg",
+    "franchise": "aot"
+  },
+  "annie leonhart": {
+    "name": "Annie Leonhart",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+    "franchise": "aot"
+  },
+  "hannes": {
+    "name": "Hannes",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46492-5kRaMLDCVD0B.jpg",
+    "franchise": "aot"
+  },
+  "armin arlert": {
+    "name": "Armin Arlert",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+    "franchise": "aot"
+  },
+  "erwin smith": {
+    "name": "Erwin Smith",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+    "franchise": "aot"
+  },
+  "jean kirstein": {
+    "name": "Jean Kirstein",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+    "franchise": "aot"
+  },
+  "carla yeager": {
+    "name": "Carla Yeager",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n62475-CExspVnLfweu.png",
+    "franchise": "aot"
+  },
+  "grisha yeager": {
+    "name": "Grisha Yeager",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62477-3AHBGul9bXK8.jpg",
+    "franchise": "aot"
+  },
+  "marco bott": {
+    "name": "Marco Bott",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg",
+    "franchise": "aot"
+  },
+  "krista lenz": {
+    "name": "Krista Lenz",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+    "franchise": "aot"
+  },
+  "thomas wagner": {
+    "name": "Thomas Wagner",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62483-zpSlfucUEgwQ.png",
+    "franchise": "aot"
+  },
+  "dot pixis": {
+    "name": "Dot Pixis",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62485-I0U5Cat3z65K.png",
+    "franchise": "aot"
+  },
+  "petra ral": {
+    "name": "Petra Ral",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n62501-CfTtAAgs64nE.jpg",
+    "franchise": "aot"
+  },
+  "mike zacharias": {
+    "name": "Mike Zacharias",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/71119.jpg",
+    "franchise": "aot"
+  },
+  "hange zoe": {
+    "name": "Hange Zoe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+    "franchise": "aot"
+  },
+  "nile dok": {
+    "name": "Nile Dok",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71123-FswK9rrdbR9h.png",
+    "franchise": "aot"
+  },
+  "darius zackly": {
+    "name": "Darius Zackly",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71125-XXymqijVoYzV.png",
+    "franchise": "aot"
+  },
+  "nick": {
+    "name": "Nick",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n71453-IxgKWV5eR1pw.jpg",
+    "franchise": "aot"
+  },
+  "katsuki bakugou": {
+    "name": "Katsuki Bakugou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png",
+    "franchise": "mha"
+  },
+  "izuku midoriya": {
+    "name": "Izuku Midoriya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png",
+    "franchise": "mha"
+  },
+  "shouto todoroki": {
+    "name": "Shouto Todoroki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png",
+    "franchise": "mha"
+  },
+  "ochako uraraka": {
+    "name": "Ochako Uraraka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png",
+    "franchise": "mha"
+  },
+  "tenya iida": {
+    "name": "Tenya Iida",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89222-TL8MQM3wJgEB.png",
+    "franchise": "mha"
+  },
+  "tsuyu asui": {
+    "name": "Tsuyu Asui",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89223-5762vburxnlz.png",
+    "franchise": "mha"
+  },
+  "toshinori yagi": {
+    "name": "Toshinori Yagi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg",
+    "franchise": "mha"
+  },
+  "shouta aizawa": {
+    "name": "Shouta Aizawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png",
+    "franchise": "mha"
+  },
+  "tomura shigaraki": {
+    "name": "Tomura Shigaraki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-qGXqFthO4SM3.jpg",
+    "franchise": "mha"
+  },
+  "nomu (u.s.j.)": {
+    "name": "Nomu (U.S.J.)",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89240-OppJU1hLa2RM.png",
+    "franchise": "mha"
+  },
+  "momo yaoyorozu": {
+    "name": "Momo Yaoyorozu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89241-Q8KzAfX4Qe2y.png",
+    "franchise": "mha"
+  },
+  "eijirou kirishima": {
+    "name": "Eijirou Kirishima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg",
+    "franchise": "mha"
+  },
+  "minoru mineta": {
+    "name": "Minoru Mineta",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89244-VVwK9loDHeTV.png",
+    "franchise": "mha"
+  },
+  "mina ashido": {
+    "name": "Mina Ashido",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89247-hu5MCqfoN82E.png",
+    "franchise": "mha"
+  },
+  "denki kaminari": {
+    "name": "Denki Kaminari",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-Ygc30RlYoFta.png",
+    "franchise": "mha"
+  },
+  "hanta sero": {
+    "name": "Hanta Sero",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89895-DpFrgTelc9Qx.png",
+    "franchise": "mha"
+  },
+  "mashirao ojiro": {
+    "name": "Mashirao Ojiro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89896-3QzT5nSEPjcr.png",
+    "franchise": "mha"
+  },
+  "kyouka jirou": {
+    "name": "Kyouka Jirou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-5vU7N3ayiKRr.png",
+    "franchise": "mha"
+  },
+  "fumikage tokoyami": {
+    "name": "Fumikage Tokoyami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89898-yAYDmPQPSOTV.png",
+    "franchise": "mha"
+  },
+  "mezou shouji": {
+    "name": "Mezou Shouji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89899-vIokiJ5jMESf.png",
+    "franchise": "mha"
+  },
+  "tooru hagakure": {
+    "name": "Tooru Hagakure",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89900-QOH8tvJgtFVj.png",
+    "franchise": "mha"
+  },
+  "kouji kouda": {
+    "name": "Kouji Kouda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89901-XCnkga69pLN9.png",
+    "franchise": "mha"
+  },
+  "rikidou satou": {
+    "name": "Rikidou Satou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89902-LXStXzlmI70R.png",
+    "franchise": "mha"
+  },
+  "yuu takeyama": {
+    "name": "Yuu Takeyama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121529-Uu4aQdOP4G98.png",
+    "franchise": "mha"
+  },
+  "all for one": {
+    "name": "All For One",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125956-jzhb8Z4peLb8.jpg",
+    "franchise": "mha"
+  },
+  "jin-u seong": {
+    "name": "Jin-U Seong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+    "franchise": "solo_leveling"
+  },
+  "chi-yul song": {
+    "name": "Chi-Yul Song",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136073-0hZNgsWB9ZLH.png",
+    "franchise": "solo_leveling"
+  },
+  "ju-hui lee": {
+    "name": "Ju-Hui Lee",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
+    "franchise": "solo_leveling"
+  },
+  "dong-su hwang": {
+    "name": "Dong-Su Hwang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136075-M6VRrZyHpaI5.png",
+    "franchise": "solo_leveling"
+  },
+  "jin-ho yu": {
+    "name": "Jin-Ho Yu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+    "franchise": "solo_leveling"
+  },
+  "yun-ho baek": {
+    "name": "Yun-Ho Baek",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+    "franchise": "solo_leveling"
+  },
+  "jin-cheol u": {
+    "name": "Jin-Cheol U",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+    "franchise": "solo_leveling"
+  },
+  "hae-in cha": {
+    "name": "Hae-In Cha",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+    "franchise": "solo_leveling"
+  },
+  "jin-a seong": {
+    "name": "Jin-A Seong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+    "franchise": "solo_leveling"
+  },
+  "geon-hui go": {
+    "name": "Geon-Hui Go",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+    "franchise": "solo_leveling"
+  },
+  "song-i han": {
+    "name": "Song-I Han",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+    "franchise": "solo_leveling"
+  },
+  "jong-in choi": {
+    "name": "Jong-In Choi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+    "franchise": "solo_leveling"
+  },
+  "igris": {
+    "name": "Igris",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+    "franchise": "solo_leveling"
+  },
+  "byeong-gu min": {
+    "name": "Byeong-Gu Min",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148789-HmGZf4RUzEFw.png",
+    "franchise": "solo_leveling"
+  },
+  "tae-shik kang": {
+    "name": "Tae-Shik Kang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181155-IkXnHuzG6he9.png",
+    "franchise": "solo_leveling"
+  },
+  "myung-han yu": {
+    "name": "Myung-Han Yu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184530-prSQOxMJid47.png",
+    "franchise": "solo_leveling"
+  },
+  "hee-jin park": {
+    "name": "Hee-Jin Park",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
+    "franchise": "solo_leveling"
+  },
+  "ki-hoon son": {
+    "name": "Ki-Hoon Son",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184541-tOghZsQZgBS4.png",
+    "franchise": "solo_leveling"
+  },
+  "iron": {
+    "name": "Iron",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+    "franchise": "solo_leveling"
+  },
+  "kyung-hye park": {
+    "name": "Kyung-Hye Park",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209396-ZEr0YZIQE0Z0.png",
+    "franchise": "solo_leveling"
+  },
+  "gina": {
+    "name": "Gina",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210098-Smco3qIRv0GD.png",
+    "franchise": "solo_leveling"
+  },
+  "laura walker": {
+    "name": "Laura Walker",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210099-Ak1Zyy8Q4qf8.png",
+    "franchise": "solo_leveling"
+  },
+  "jae-hwan ju": {
+    "name": "Jae-Hwan Ju",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210101-UXfCh9WHvata.png",
+    "franchise": "solo_leveling"
+  },
+  "sin sang": {
+    "name": "Sin Sang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
+    "franchise": "solo_leveling"
+  },
+  "denji": {
+    "name": "Denji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png",
+    "franchise": "chainsaw_man"
+  },
+  "power": {
+    "name": "Power",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png",
+    "franchise": "chainsaw_man"
+  },
+  "makima": {
+    "name": "Makima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png",
+    "franchise": "chainsaw_man"
+  },
+  "aki hayakawa": {
+    "name": "Aki Hayakawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png",
+    "franchise": "chainsaw_man"
+  },
+  "yuutarou kurose": {
+    "name": "Yuutarou Kurose",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144592-pUY67nacCeud.png",
+    "franchise": "chainsaw_man"
+  },
+  "kishibe": {
+    "name": "Kishibe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
+    "franchise": "chainsaw_man"
+  },
+  "kobeni higashiyama": {
+    "name": "Kobeni Higashiyama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
+    "franchise": "chainsaw_man"
+  },
+  "michiko tendou": {
+    "name": "Michiko Tendou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144595-R8Lfn0egUR3q.png",
+    "franchise": "chainsaw_man"
+  },
+  "himeno": {
+    "name": "Himeno",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png",
+    "franchise": "chainsaw_man"
+  },
+  "reze": {
+    "name": "Reze",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png",
+    "franchise": "chainsaw_man"
+  },
+  "tenshi no akuma": {
+    "name": "Tenshi no Akuma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-jiMRx9je7H6y.png",
+    "franchise": "chainsaw_man"
+  },
+  "bouryoku no majin": {
+    "name": "Bouryoku no Majin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg",
+    "franchise": "chainsaw_man"
+  },
+  "beam": {
+    "name": "Beam",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg",
+    "franchise": "chainsaw_man"
+  },
+  "eien no akuma": {
+    "name": "Eien no Akuma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157240-dQJO3S7285nW.png",
+    "franchise": "chainsaw_man"
+  },
+  "samurai sword": {
+    "name": "Samurai Sword",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
+    "franchise": "chainsaw_man"
+  },
+  "prinz": {
+    "name": "Prinz",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157277-h6M1umQ3N2ve.jpg",
+    "franchise": "chainsaw_man"
+  },
+  "pochita": {
+    "name": "Pochita",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
+    "franchise": "chainsaw_man"
+  },
+  "fushi": {
+    "name": "Fushi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172885-hvF2nRMCqNaX.png",
+    "franchise": "chainsaw_man"
+  },
+  "mirai no akuma": {
+    "name": "Mirai no Akuma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172887-qMCjXPXMSKRk.png",
+    "franchise": "chainsaw_man"
+  },
+  "taiyou": {
+    "name": "Taiyou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+    "franchise": "chainsaw_man"
+  },
+  "yuurei no akuma": {
+    "name": "Yuurei no Akuma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174262-e1ctdgffT3MP.png",
+    "franchise": "chainsaw_man"
+  },
+  "hirokazu arai ": {
+    "name": "Hirokazu Arai ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174263-TTMWfBlU1k3f.png",
+    "franchise": "chainsaw_man"
+  },
+  "akane sawatari ": {
+    "name": "Akane Sawatari ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174264-dLiZkMXoltQ9.png",
+    "franchise": "chainsaw_man"
+  },
+  "noroi no akuma": {
+    "name": "Noroi no Akuma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+    "franchise": "chainsaw_man"
+  },
+  "madoka": {
+    "name": "Madoka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174267-2VJVkMILqQpY.png",
+    "franchise": "chainsaw_man"
+  },
+  "l lawliet": {
+    "name": "L Lawliet",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
+    "franchise": "death_note"
+  },
+  "ryuk": {
+    "name": "Ryuk",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg",
+    "franchise": "death_note"
+  },
+  "light yagami": {
+    "name": "Light Yagami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png",
+    "franchise": "death_note"
+  },
+  "mihael keehl": {
+    "name": "Mihael Keehl",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png",
+    "franchise": "death_note"
+  },
+  "nate river": {
+    "name": "Nate River",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg",
+    "franchise": "death_note"
+  },
+  "misa amane": {
+    "name": "Misa Amane",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png",
+    "franchise": "death_note"
+  },
+  "teru mikami": {
+    "name": "Teru Mikami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1904-xKw2NgiE6VbU.jpg",
+    "franchise": "death_note"
+  },
+  "rem": {
+    "name": "Rem",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png",
+    "franchise": "death_note"
+  },
+  "touta matsuda": {
+    "name": "Touta Matsuda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1906-JCWKEGGook3Z.png",
+    "franchise": "death_note"
+  },
+  "souichirou yagami": {
+    "name": "Souichirou Yagami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg",
+    "franchise": "death_note"
+  },
+  "kyosuke higuchi": {
+    "name": "Kyosuke Higuchi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1928-u4ybFpwCKqg2.png",
+    "franchise": "death_note"
+  },
+  "reiji namikawa": {
+    "name": "Reiji Namikawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1929-TYRt1UCHOS33.png",
+    "franchise": "death_note"
+  },
+  "arayoshi hatori": {
+    "name": "Arayoshi Hatori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1930-1ILYLHyqkMQb.png",
+    "franchise": "death_note"
+  },
+  "masahiko kida": {
+    "name": "Masahiko Kida",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1931-kJH9pspSPKMJ.png",
+    "franchise": "death_note"
+  },
+  "tierry morello": {
+    "name": "Tierry Morello",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1932-eeWL3KSOTlVx.jpg",
+    "franchise": "death_note"
+  },
+  "mary kenwood": {
+    "name": "Mary Kenwood",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1933-WNDtxqOr1d51.png",
+    "franchise": "death_note"
+  },
+  "quillsh wammy": {
+    "name": "Quillsh Wammy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2179-qF49l5qEurt5.png",
+    "franchise": "death_note"
+  },
+  "shidoh": {
+    "name": "Shidoh",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2402.jpg",
+    "franchise": "death_note"
+  },
+  "mail jeevas": {
+    "name": "Mail Jeevas",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2730-SNbfxShpg90k.png",
+    "franchise": "death_note"
+  },
+  "kiyomi takada": {
+    "name": "Kiyomi Takada",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3765-XmrhzN7qO27e.png",
+    "franchise": "death_note"
+  },
+  "kanzo mogi": {
+    "name": "Kanzo Mogi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3766-xMCG0Vajfe2z.png",
+    "franchise": "death_note"
+  },
+  "shuuichi aizawa": {
+    "name": "Shuuichi Aizawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
+    "franchise": "death_note"
+  },
+  "halle bullook": {
+    "name": "Halle Bullook",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3769-QJUZtTvWhOJt.png",
+    "franchise": "death_note"
+  },
+  "stephen loud": {
+    "name": "Stephen Loud",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+    "franchise": "death_note"
+  },
+  "jealous": {
+    "name": "Jealous",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3883-KOxHbNKKnVrk.png",
+    "franchise": "death_note"
+  },
+  "ken kaneki": {
+    "name": "Ken Kaneki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "touka kirishima": {
+    "name": "Touka Kirishima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "hinami fueguchi": {
+    "name": "Hinami Fueguchi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "koutarou amon": {
+    "name": "Koutarou Amon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "yukinori shinohara": {
+    "name": "Yukinori Shinohara",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88408-zezMB3WoVXd3.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "nishiki nishio": {
+    "name": "Nishiki Nishio",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88409-rOaEex2Ml2ah.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "kimi nishino": {
+    "name": "Kimi Nishino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88410.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "ayato kirishima": {
+    "name": "Ayato Kirishima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "juuzou suzuya": {
+    "name": "Juuzou Suzuya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "rize kamishiro": {
+    "name": "Rize Kamishiro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "uta": {
+    "name": "Uta",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "itori": {
+    "name": "Itori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88415.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "enji koma": {
+    "name": "Enji Koma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88416.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "taro-chan": {
+    "name": "Taro-chan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88417.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "tatara": {
+    "name": "Tatara",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88418-OyaEfoP3tf1e.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "nico": {
+    "name": "Nico",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88419.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "hideyoshi nagachika": {
+    "name": "Hideyoshi Nagachika",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "ryouko fueguchi": {
+    "name": "Ryouko Fueguchi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88422.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "kureo mado": {
+    "name": "Kureo Mado",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88423-H6fFZMWeFj25.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "shuu tsukiyama": {
+    "name": "Shuu Tsukiyama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "yakumo oomori": {
+    "name": "Yakumo Oomori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88428.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "akira mado": {
+    "name": "Akira Mado",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88838-LWDgYMTqb1pd.png",
+    "franchise": "tokyo_ghoul"
+  },
+  "kishou arima": {
+    "name": "Kishou Arima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "noro": {
+    "name": "Noro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125567-V8XLbbHt8xis.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "seidou takizawa": {
+    "name": "Seidou Takizawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125884-x9UNA2Lp31pf.jpg",
+    "franchise": "tokyo_ghoul"
+  },
+  "ging freecss": {
+    "name": "Ging Freecss",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg",
+    "franchise": "hxh"
+  },
+  "killua zoldyck": {
+    "name": "Killua Zoldyck",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg",
+    "franchise": "hxh"
+  },
+  "kurapika": {
+    "name": "Kurapika",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png",
+    "franchise": "hxh"
+  },
+  "leorio paradinight": {
+    "name": "Leorio Paradinight",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg",
+    "franchise": "hxh"
+  },
+  "gon freecss": {
+    "name": "Gon Freecss",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg",
+    "franchise": "hxh"
+  },
+  "hisoka morow": {
+    "name": "Hisoka Morow",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png",
+    "franchise": "hxh"
+  },
+  "illumi zoldyck": {
+    "name": "Illumi Zoldyck",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57-pTFguojSOQZW.png",
+    "franchise": "hxh"
+  },
+  "chrollo lucilfer": {
+    "name": "Chrollo Lucilfer",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg",
+    "franchise": "hxh"
+  },
+  "zeno zoldyck": {
+    "name": "Zeno Zoldyck",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n59-6mnrlhnGe2mw.png",
+    "franchise": "hxh"
+  },
+  "silva zoldyck": {
+    "name": "Silva Zoldyck",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60.jpg",
+    "franchise": "hxh"
+  },
+  "feitan portor": {
+    "name": "Feitan Portor",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg",
+    "franchise": "hxh"
+  },
+  "bonolenov ndongo": {
+    "name": "Bonolenov Ndongo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5827.jpg",
+    "franchise": "hxh"
+  },
+  "franklin bordeaux": {
+    "name": "Franklin Bordeaux",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5828-cMOh5ifgAEW1.png",
+    "franchise": "hxh"
+  },
+  "kortopi": {
+    "name": "Kortopi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5829-ubGjeYxlPnxL.png",
+    "franchise": "hxh"
+  },
+  "machi komacine": {
+    "name": "Machi Komacine",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5830-IEl8BCasHZvG.png",
+    "franchise": "hxh"
+  },
+  "nobunaga hazama": {
+    "name": "Nobunaga Hazama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5831-COYqtVagw99J.png",
+    "franchise": "hxh"
+  },
+  "shalnark ryuseih": {
+    "name": "Shalnark Ryuseih",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5832.jpg",
+    "franchise": "hxh"
+  },
+  "shizuku murasaki": {
+    "name": "Shizuku Murasaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5833.jpg",
+    "franchise": "hxh"
+  },
+  "phinks magcub": {
+    "name": "Phinks Magcub",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5834-s3A4bR8IX01p.png",
+    "franchise": "hxh"
+  },
+  "pakunoda": {
+    "name": "Pakunoda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5835-cbomgYG3LWrP.jpg",
+    "franchise": "hxh"
+  },
+  "uvogin": {
+    "name": "Uvogin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5836.jpg",
+    "franchise": "hxh"
+  },
+  "baka ki el dogra": {
+    "name": "Baka Ki El Dogra",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6013-KlW2B29yaxwP.png",
+    "franchise": "hxh"
+  },
+  "menchi": {
+    "name": "Menchi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6088-Bih7EhJL1QE6.jpg",
+    "franchise": "hxh"
+  },
+  "kalluto zoldyck": {
+    "name": "Kalluto Zoldyck",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n6089-ro8HdSKvlycB.jpg",
+    "franchise": "hxh"
+  },
+  "leroute": {
+    "name": "Leroute",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10535-iCSNBBSq22iD.png",
+    "franchise": "hxh"
+  },
+  "edward elric": {
+    "name": "Edward Elric",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+    "franchise": "fma"
+  },
+  "alphonse elric": {
+    "name": "Alphonse Elric",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg",
+    "franchise": "fma"
+  },
+  "winry rockbell": {
+    "name": "Winry Rockbell",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg",
+    "franchise": "fma"
+  },
+  "pinako rockbell": {
+    "name": "Pinako Rockbell",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65-Yw7j20Y9uewh.png",
+    "franchise": "fma"
+  },
+  "scar": {
+    "name": "Scar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png",
+    "franchise": "fma"
+  },
+  "izumi curtis": {
+    "name": "Izumi Curtis",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png",
+    "franchise": "fma"
+  },
+  "roy mustang": {
+    "name": "Roy Mustang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png",
+    "franchise": "fma"
+  },
+  "maes hughes": {
+    "name": "Maes Hughes",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png",
+    "franchise": "fma"
+  },
+  "riza hawkeye": {
+    "name": "Riza Hawkeye",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png",
+    "franchise": "fma"
+  },
+  "greed": {
+    "name": "Greed",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg",
+    "franchise": "fma"
+  },
+  "lust": {
+    "name": "Lust",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b650-viEy6bOIcGiU.png",
+    "franchise": "fma"
+  },
+  "envy": {
+    "name": "Envy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png",
+    "franchise": "fma"
+  },
+  "alex louis armstrong": {
+    "name": "Alex Louis Armstrong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2079-RnhPS44vyqpJ.jpg",
+    "franchise": "fma"
+  },
+  "grand basque": {
+    "name": "Grand Basque",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2439-ETW3tuNekJ1w.jpg",
+    "franchise": "fma"
+  },
+  "lan fan": {
+    "name": "Lan Fan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3292-aK72k3syf1qP.png",
+    "franchise": "fma"
+  },
+  "ling yao": {
+    "name": "Ling Yao",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3293-2GiFTmLQnBw8.jpg",
+    "franchise": "fma"
+  },
+  "shou tucker": {
+    "name": "Shou Tucker",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3696-FXnbdWQXziOr.jpg",
+    "franchise": "fma"
+  },
+  "olivier mira armstrong": {
+    "name": "Olivier Mira Armstrong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png",
+    "franchise": "fma"
+  },
+  "nina tucker": {
+    "name": "Nina Tucker",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4159-g0Q6tQ9SCq6R.jpg",
+    "franchise": "fma"
+  },
+  "jean havoc": {
+    "name": "Jean Havoc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n4685-9uloq4hxlcTw.png",
+    "franchise": "fma"
+  },
+  "king bradley": {
+    "name": "King Bradley",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png",
+    "franchise": "fma"
+  },
+  "gluttony": {
+    "name": "Gluttony",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5411.jpg",
+    "franchise": "fma"
+  },
+  "barry the chopper": {
+    "name": "Barry the Chopper",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5428-ZIjtbA5UxvSB.png",
+    "franchise": "fma"
+  },
+  "kain fuery": {
+    "name": "Kain Fuery",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5705-Aoe00iZYSbS1.jpg",
+    "franchise": "fma"
+  },
+  "vato falman": {
+    "name": "Vato Falman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5706-Hh6Su6NIGGT0.jpg",
+    "franchise": "fma"
+  },
+  "anya forger": {
+    "name": "Anya Forger",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png",
+    "franchise": "spy_family"
+  },
+  "loid forger": {
+    "name": "Loid Forger",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+    "franchise": "spy_family"
+  },
+  "yor forger": {
+    "name": "Yor Forger",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png",
+    "franchise": "spy_family"
+  },
+  "becky blackbell": {
+    "name": "Becky Blackbell",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg",
+    "franchise": "spy_family"
+  },
+  "damian desmond": {
+    "name": "Damian Desmond",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png",
+    "franchise": "spy_family"
+  },
+  "yuuri briar": {
+    "name": "Yuuri Briar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150425-mP852peLh9eS.jpg",
+    "franchise": "spy_family"
+  },
+  "sylvia sherwood": {
+    "name": "Sylvia Sherwood",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png",
+    "franchise": "spy_family"
+  },
+  "franky franklin": {
+    "name": "Franky Franklin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157888-zkSfIT5Z8y2S.png",
+    "franchise": "spy_family"
+  },
+  "bond": {
+    "name": "Bond",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+    "franchise": "spy_family"
+  },
+  "henry henderson": {
+    "name": "Henry Henderson",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg",
+    "franchise": "spy_family"
+  },
+  "camilla": {
+    "name": "Camilla",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180191-N9bunu7GiTFy.png",
+    "franchise": "spy_family"
+  },
+  "donovan desmond": {
+    "name": "Donovan Desmond",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180192-nOvkTcotZyu0.png",
+    "franchise": "spy_family"
+  },
+  "ewen egeburg": {
+    "name": "Ewen Egeburg",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
+    "franchise": "spy_family"
+  },
+  "emile elman": {
+    "name": "Emile Elman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+    "franchise": "spy_family"
+  },
+  "millie": {
+    "name": "Millie",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270958-JAs5Jdh7vmDu.png",
+    "franchise": "spy_family"
+  },
+  "sharon": {
+    "name": "Sharon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270959-HVflw5p1KQb5.png",
+    "franchise": "spy_family"
+  },
+  "dominic": {
+    "name": "Dominic",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270960-ZeCmPnuQp11T.png",
+    "franchise": "spy_family"
+  },
+  "garden tenchou": {
+    "name": "Garden Tenchou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270961-npwGDaryVj6Q.png",
+    "franchise": "spy_family"
+  },
+  "wise kyokuchou": {
+    "name": "WISE Kyokuchou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b272642-S4V3jLcHwzFx.jpg",
+    "franchise": "spy_family"
+  },
+  "bondman": {
+    "name": "Bondman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274081-OQdVAPCoTuBI.png",
+    "franchise": "spy_family"
+  },
+  "edgar": {
+    "name": "Edgar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274082-9GV1yIXv2N70.png",
+    "franchise": "spy_family"
+  },
+  "karen": {
+    "name": "Karen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274083-RoIvenciVoSd.png",
+    "franchise": "spy_family"
+  },
+  "murdoch swan": {
+    "name": "Murdoch Swan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274084-jbW7ZAfCK0u4.png",
+    "franchise": "spy_family"
+  },
+  "walter evans": {
+    "name": "Walter Evans",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274085-76olW4lNxegM.png",
+    "franchise": "spy_family"
+  },
+  "usagi tsukino": {
+    "name": "Usagi Tsukino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2030-GQvVYPEYkXCy.jpg",
+    "franchise": "sailor_moon"
+  },
+  "ami mizuno": {
+    "name": "Ami Mizuno",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2366-IJmfKZoSYT3N.png",
+    "franchise": "sailor_moon"
+  },
+  "rei hino": {
+    "name": "Rei Hino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2367-KAExXjTB13mJ.png",
+    "franchise": "sailor_moon"
+  },
+  "makoto kino": {
+    "name": "Makoto Kino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2825-d7HrsHjJgixD.png",
+    "franchise": "sailor_moon"
+  },
+  "minako aino": {
+    "name": "Minako Aino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2826-BwX3oCmxTo6A.png",
+    "franchise": "sailor_moon"
+  },
+  "mamoru chiba": {
+    "name": "Mamoru Chiba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4013-pnQ2obKyW7Tv.png",
+    "franchise": "sailor_moon"
+  },
+  "luna": {
+    "name": "Luna",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5407.jpg",
+    "franchise": "sailor_moon"
+  },
+  "artemis": {
+    "name": "Artemis",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5408-eh4f6CArQ8G8.png",
+    "franchise": "sailor_moon"
+  },
+  "naru oosaka": {
+    "name": "Naru Oosaka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6870-XSkyv7S6Uzzt.png",
+    "franchise": "sailor_moon"
+  },
+  "queen beryl": {
+    "name": "Queen Beryl",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8511-FetY84D0aYCI.jpg",
+    "franchise": "sailor_moon"
+  },
+  "jadeite": {
+    "name": "Jadeite",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8512.jpg",
+    "franchise": "sailor_moon"
+  },
+  "nephrite": {
+    "name": "Nephrite",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8513-MiIUQHWs74y6.jpg",
+    "franchise": "sailor_moon"
+  },
+  "zoisite": {
+    "name": "Zoisite",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8514-KhY9Lu4Frcol.jpg",
+    "franchise": "sailor_moon"
+  },
+  "kunzite": {
+    "name": "Kunzite",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8515-NYM4kDPvdbWo.jpg",
+    "franchise": "sailor_moon"
+  },
+  "gurio umino": {
+    "name": "Gurio Umino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8544-X4tSTfcGaQUM.jpg",
+    "franchise": "sailor_moon"
+  },
+  "haruna sakurada": {
+    "name": "Haruna Sakurada",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8904-Hgd4kZ7Qo1JT.png",
+    "franchise": "sailor_moon"
+  },
+  "ryou urawa": {
+    "name": "Ryou Urawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8905-2uhplWwvVRh1.png",
+    "franchise": "sailor_moon"
+  },
+  "motoki furuhata": {
+    "name": "Motoki Furuhata",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8906-mVPYTvxoPkKi.png",
+    "franchise": "sailor_moon"
+  },
+  "yuuichirou kumada": {
+    "name": "Yuuichirou Kumada",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8908-1dEj49N8HwQ4.png",
+    "franchise": "sailor_moon"
+  },
+  "queen metalia": {
+    "name": "Queen Metalia",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8909.jpg",
+    "franchise": "sailor_moon"
+  },
+  "grandpa hino": {
+    "name": "Grandpa Hino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12062-cApbFbwxD2Le.png",
+    "franchise": "sailor_moon"
+  },
+  "queen serenity": {
+    "name": "Queen Serenity",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17010-nh0sC5kc9xvP.jpg",
+    "franchise": "sailor_moon"
+  },
+  "ikuko tsukino": {
+    "name": "Ikuko Tsukino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17937-N2Sz9U5bLmeJ.jpg",
+    "franchise": "sailor_moon"
+  },
+  "kenji tsukino": {
+    "name": "Kenji Tsukino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18345-7ZQAGo8LyccT.jpg",
+    "franchise": "sailor_moon"
+  },
+  "shingo tsukino": {
+    "name": "Shingo Tsukino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18346-a7YDFcjVydgo.jpg",
+    "franchise": "sailor_moon"
+  }
+}

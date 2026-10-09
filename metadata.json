@@ -1,0 +1,6 @@
+{
+  "name": "PIXÉ.CO — Premium Polaroid Studio",
+  "description": "Premium Polaroid and instant photo printing studio. Turn your digital moments into tangible archival Polaroid prints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

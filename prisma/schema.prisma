@@ -1,0 +1,210 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String           @id @default(cuid())
+  name         String
+  email        String           @unique
+  passwordHash String
+  role         String           @default("CUSTOMER") // "CUSTOMER" | "ADMIN"
+  avatar       String?
+  phone        String?
+  createdAt    DateTime         @default(now())
+  updatedAt    DateTime         @updatedAt
+
+  cart           Cart?
+  orders         Order[]
+  addresses      Address[]
+  favorites      Favorite[]
+  recentlyViewed RecentlyViewed[]
+
+  @@index([email])
+}
+
+model Product {
+  id                 String   @id
+  title              String
+  subject            String
+  category           String
+  subcategory        String?
+  franchise          String?
+  description        String
+  image              String
+  thumbnail          String?
+  price              Int      @default(40)
+  style              String   @default("Classic")
+  stockQuantity      Int      @default(100)
+  featured           Boolean  @default(false)
+  popular            Boolean  @default(false)
+  trending           Boolean  @default(false)
+  aliases            String?  // JSON stringified array of aliases
+  tags               String   // JSON stringified array of tags
+  arcs               String?  // JSON stringified array of arcs
+  role               String?
+  crewOrAffiliation  String?
+  relationshipGroup  String?  // JSON stringified array
+  caption            String?
+  dateStr            String?
+  rotation           Float?   @default(0.0)
+  tapeColor          String?  @default("yellow")
+  imageStatus        String   @default("VERIFIED") // "VERIFIED" | "IMAGE_PENDING"
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+
+  cartItems      CartItem[]
+  orderItems     OrderItem[]
+  favorites      Favorite[]
+  recentlyViewed RecentlyViewed[]
+
+  @@index([category])
+  @@index([subcategory])
+  @@index([franchise])
+  @@index([subject])
+}
+
+model Category {
+  id            String   @id
+  name          String
+  slug          String   @unique
+  iconName      String?
+  featuredImage String?
+  description   String?
+  itemCount     Int      @default(0)
+  subcategories String?  // JSON stringified array
+
+  @@index([slug])
+}
+
+model Cart {
+  id        String     @id @default(cuid())
+  userId    String     @unique
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  items CartItem[]
+}
+
+model CartItem {
+  id         String   @id @default(cuid())
+  cartId     String
+  cart       Cart     @relation(fields: [cartId], references: [id], onDelete: Cascade)
+  productId  String?
+  product    Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+  type       String   @default("archive") // "archive" | "plan" | "custom"
+  quantity   Int      @default(1)
+  title      String
+  imageUrl   String
+  caption    String?
+  filterName String?  @default("Classic")
+  frameStyle String?  @default("Classic")
+  textColor  String?  @default("#E8DDC8")
+  dateStamp  Boolean  @default(true)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([cartId])
+  @@index([productId])
+}
+
+model Order {
+  id              String      @id @default(cuid())
+  orderNumber     String      @unique
+  userId          String
+  user            User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  status          String      @default("QUEUED") // "QUEUED" | "EMULSION_PREP" | "OPTICAL_EXPOSURE" | "CRYSTALLIZATION" | "WAX_PACKAGING" | "DISPATCHED" | "DELIVERED" | "CANCELLED"
+  subtotal        Int
+  shipping        Int         @default(0)
+  total           Int
+  trackingId      String?
+  shippingAddress String      // JSON stringified address snapshot
+  paymentMethod   String      @default("upi")
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+
+  items OrderItem[]
+
+  @@index([userId])
+  @@index([status])
+  @@index([orderNumber])
+}
+
+model OrderItem {
+  id                   String   @id @default(cuid())
+  orderId              String
+  order                Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productId            String?
+  product              Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+  productTitleSnapshot String
+  productImageSnapshot String
+  quantity             Int
+  unitPrice            Int
+  subtotal             Int
+  caption              String?
+  frameStyle           String?  @default("Classic")
+  filterName           String?  @default("Classic")
+  createdAt            DateTime @default(now())
+
+  @@index([orderId])
+}
+
+model Address {
+  id           String   @id @default(cuid())
+  userId       String
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  fullName     String
+  phone        String
+  addressLine1 String
+  addressLine2 String?
+  city         String
+  state        String
+  postalCode   String
+  country      String   @default("India")
+  isDefault    Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@index([userId])
+}
+
+model Favorite {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, productId])
+  @@index([userId])
+  @@index([productId])
+}
+
+model RecentlyViewed {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  viewedAt  DateTime @default(now())
+
+  @@unique([userId, productId])
+  @@index([userId])
+  @@index([productId])
+}
+
+model PricingConfig {
+  id                   String   @id @default("default")
+  singlePrice          Int      @default(40)
+  bundlePrice          Int      @default(100)
+  customPrice          Int      @default(50)
+  freeShippingThreshold Int     @default(200)
+  standardShippingFee  Int      @default(40)
+  updatedAt            DateTime @updatedAt
+}

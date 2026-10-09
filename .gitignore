@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+__pycache__/
+.DS_Store
+*.log
+.env*
+!.env.example
+cookies.txt
+prisma/*.db
+uploads/

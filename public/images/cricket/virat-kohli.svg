@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="kohli-bg" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#1A2744" />
+      <stop offset="60%" stop-color="#0E1626" />
+      <stop offset="100%" stop-color="#070B14" />
+    </radialGradient>
+    <linearGradient id="india-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0066B3" />
+      <stop offset="100%" stop-color="#003366" />
+    </linearGradient>
+    <linearGradient id="gold-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4B82A" />
+      <stop offset="100%" stop-color="#C2921E" />
+    </linearGradient>
+    <linearGradient id="skin" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C68B59" />
+      <stop offset="100%" stop-color="#A56E3F" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="800" fill="url(#kohli-bg)" />
+  
+  <!-- Stadium Floodlights Glow -->
+  <circle cx="200" cy="180" r="180" fill="#F4B82A" opacity="0.12" filter="blur(30px)" />
+  <circle cx="600" cy="180" r="180" fill="#00A8FF" opacity="0.12" filter="blur(30px)" />
+
+  <!-- India Tricolor subtle streaks -->
+  <path d="M 0,720 Q 400,680 800,720 L 800,800 L 0,800 Z" fill="#070B14" opacity="0.9" />
+
+  <!-- Player Figure: Virat Kohli (King Kohli) Cover Drive Action -->
+  <g id="virat-figure" transform="translate(0, -20)">
+    <!-- Back Leg & Pad -->
+    <path d="M 330,520 L 290,680 L 240,690 L 270,530 Z" fill="#EAE5D9" stroke="#003366" stroke-width="4" />
+    <!-- Front Leg & Pad (Stretched in classical cover drive) -->
+    <path d="M 440,510 L 530,670 L 600,660 L 490,490 Z" fill="#F4F1EA" stroke="#003366" stroke-width="4" />
+    <!-- Straps on Pads -->
+    <line x1="280" y1="580" x2="330" y2="570" stroke="#003366" stroke-width="6" />
+    <line x1="260" y1="640" x2="310" y2="630" stroke="#003366" stroke-width="6" />
+    <line x1="480" y1="560" x2="530" y2="550" stroke="#003366" stroke-width="6" />
+    <line x1="510" y1="620" x2="560" y2="610" stroke="#003366" stroke-width="6" />
+
+    <!-- Torso: India Jersey #18 -->
+    <path d="M 350,330 C 370,300 450,290 480,330 L 470,510 L 350,510 Z" fill="url(#india-blue)" />
+    <!-- Jersey Orange Accent Lines on Collar & Shoulders -->
+    <path d="M 390,300 L 440,300 L 450,330 L 380,330 Z" fill="#FF9933" />
+    <!-- Jersey Number 18 and KOHLI text -->
+    <text x="410" y="420" font-family="'Syne', 'Plus Jakarta Sans', sans-serif" font-weight="900" font-size="64" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">18</text>
+    <text x="410" y="360" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="20" fill="#FF9933" text-anchor="middle" letter-spacing="4">KOHLI</text>
+    <text x="410" y="460" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="14" fill="#E8DDC8" text-anchor="middle" letter-spacing="3">INDIA</text>
+
+    <!-- Arms Holding MRF Bat in High Elbow Cover Drive Pose -->
+    <!-- Left Arm -->
+    <path d="M 360,330 L 320,410 L 410,430 L 430,390 Z" fill="url(#skin)" />
+    <!-- Right Arm -->
+    <path d="M 470,330 L 490,400 L 440,430 L 420,380 Z" fill="url(#skin)" />
+
+    <!-- Batting Gloves (Red & White MRF Style) -->
+    <ellipse cx="420" cy="425" rx="20" ry="16" fill="#D32F2F" stroke="#FFFFFF" stroke-width="3" />
+    <ellipse cx="440" cy="420" rx="18" ry="15" fill="#D32F2F" stroke="#FFFFFF" stroke-width="3" />
+
+    <!-- Cricket Bat (MRF Genius Grand Edition) -->
+    <!-- Handle -->
+    <line x1="430" y1="410" x2="400" y2="340" stroke="#E6D3A3" stroke-width="12" stroke-linecap="round" />
+    <line x1="400" y1="340" x2="385" y2="305" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" />
+    <!-- Blade Follow-through -->
+    <polygon points="430,410 460,400 660,250 635,230" fill="#E6C894" stroke="#8C6239" stroke-width="3" />
+    <!-- Red MRF sticker on blade -->
+    <polygon points="470,380 490,370 540,330 520,340" fill="#D32F2F" />
+    <text x="505" y="360" font-family="sans-serif" font-weight="900" font-size="12" fill="#FFFFFF" transform="rotate(-35 505 360)">MRF</text>
+
+    <!-- Head & Blue India Helmet with Face Grille -->
+    <!-- Neck -->
+    <rect x="395" y="270" width="30" height="35" fill="url(#skin)" />
+    <!-- Helmet Shell (Deep Navy Blue) -->
+    <circle cx="410" cy="230" r="50" fill="#0A1D37" stroke="#FF9933" stroke-width="3" />
+    <!-- BCCI Crest Badge on Helmet -->
+    <circle cx="410" cy="210" r="9" fill="#0066B3" stroke="#F4B82A" stroke-width="2" />
+    <!-- Beard & Focused Eyes Profile -->
+    <path d="M 400,240 C 420,245 440,245 450,230 L 445,260 C 430,275 410,275 395,260 Z" fill="#1C1814" />
+    <!-- Steel Grille -->
+    <path d="M 410,225 L 455,230 L 450,260 L 415,260" fill="none" stroke="#C0C0C0" stroke-width="3" />
+    <line x1="420" y1="235" x2="455" y2="235" stroke="#C0C0C0" stroke-width="2" />
+    <line x1="420" y1="245" x2="450" y2="245" stroke="#C0C0C0" stroke-width="2" />
+  </g>
+
+  <!-- Golden Flare / Dust Particles -->
+  <circle cx="640" cy="240" r="4" fill="#F4B82A" />
+  <circle cx="680" cy="270" r="3" fill="#FFFFFF" />
+  <circle cx="590" cy="210" r="3" fill="#F4B82A" />
+
+  <!-- Badge in Corner -->
+  <g transform="translate(40, 50)">
+    <rect width="180" height="34" rx="6" fill="#070B14" opacity="0.8" stroke="#F4B82A" stroke-width="1.5" />
+    <text x="90" y="22" font-family="'Syne', sans-serif" font-weight="800" font-size="12" fill="#F4B82A" text-anchor="middle" letter-spacing="1">VIRAT KOHLI · #18</text>
+  </g>
+</svg>

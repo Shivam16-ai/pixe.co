@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="tanjiro-bg" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#2D110D" />
+      <stop offset="60%" stop-color="#140705" />
+      <stop offset="100%" stop-color="#050201" />
+    </radialGradient>
+    <pattern id="checkered-haori" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#00805A" />
+      <rect x="20" width="20" height="20" fill="#1A1A1A" />
+      <rect y="20" width="20" height="20" fill="#1A1A1A" />
+      <rect x="20" y="20" width="20" height="20" fill="#00805A" />
+    </pattern>
+    <linearGradient id="solar-flame" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE066" />
+      <stop offset="40%" stop-color="#FF5400" />
+      <stop offset="100%" stop-color="#9E0000" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="800" fill="url(#tanjiro-bg)" />
+  
+  <!-- Hinokami Kagura Solar Flame Arc in Background -->
+  <path d="M 150,680 Q 200,300 450,180 Q 680,240 700,550" fill="none" stroke="url(#solar-flame)" stroke-width="48" opacity="0.35" filter="blur(16px)" stroke-linecap="round" />
+  <path d="M 150,680 Q 200,300 450,180 Q 680,240 700,550" fill="none" stroke="#FFE066" stroke-width="12" opacity="0.8" stroke-linecap="round" />
+
+  <!-- Tanjiro Kamado Figure -->
+  <g id="tanjiro-figure" transform="translate(0, 15)">
+    
+    <!-- Demon Slayer Corps Black Uniform & Green/Black Checkered Haori -->
+    <!-- Black Uniform -->
+    <path d="M 330,460 L 470,460 L 485,750 L 315,750 Z" fill="#1A1B22" />
+    <!-- White Belt -->
+    <rect x="325" y="620" width="150" height="18" fill="#F0EDE6" />
+
+    <!-- Green & Black Checkered Haori Drape -->
+    <path d="M 270,470 L 340,470 L 320,750 L 230,750 Z" fill="url(#checkered-haori)" stroke="#111111" stroke-width="2" />
+    <path d="M 530,470 L 460,470 L 480,750 L 570,750 Z" fill="url(#checkered-haori)" stroke="#111111" stroke-width="2" />
+
+    <!-- Neck & Face -->
+    <rect x="380" y="380" width="40" height="45" fill="#E8B490" />
+    <path d="M 340,290 C 340,190 460,190 460,290 C 460,390 340,390 340,290 Z" fill="#F4C6A6" />
+
+    <!-- Flame Scar on Forehead (Left side) -->
+    <path d="M 360,240 Q 370,220 380,235 Q 375,255 365,260 Z" fill="#800E13" />
+    <path d="M 362,242 Q 368,230 375,238 Z" fill="#BA181B" />
+
+    <!-- Burgundy Dark Red Hair Swept Back -->
+    <path d="M 330,280 C 330,170 470,170 470,280 L 460,240 C 450,160 350,160 340,240 Z" fill="#401014" />
+    <!-- Hair Spikes with Crimson Red Tips -->
+    <polygon points="360,180 340,140 370,160" fill="#751A22" />
+    <polygon points="380,165 370,120 400,150" fill="#8B212B" />
+    <polygon points="410,155 410,110 430,145" fill="#8B212B" />
+    <polygon points="435,160 450,125 450,170" fill="#751A22" />
+
+    <!-- Large Gentle Crimson-Red Eyes -->
+    <ellipse cx="375" cy="305" rx="13" ry="15" fill="#FFFFFF" stroke="#151210" stroke-width="2" />
+    <circle cx="375" cy="305" r="9" fill="#800F17" />
+    <circle cx="375" cy="305" r="5" fill="#38040E" />
+    <circle cx="378" cy="301" r="3" fill="#FFFFFF" />
+
+    <ellipse cx="425" cy="305" rx="13" ry="15" fill="#FFFFFF" stroke="#151210" stroke-width="2" />
+    <circle cx="425" cy="305" r="9" fill="#800F17" />
+    <circle cx="425" cy="305" r="5" fill="#38040E" />
+    <circle cx="428" cy="301" r="3" fill="#FFFFFF" />
+
+    <!-- HANAFUDA EARRINGS (Iconic Sunburst & Mountain) -->
+    <!-- Left Earring -->
+    <g transform="translate(325, 335)">
+      <rect x="0" y="0" width="14" height="28" fill="#FDFBF7" stroke="#111111" stroke-width="1.5" rx="1" />
+      <circle cx="7" cy="8" r="5" fill="#D90429" />
+      <path d="M 0,20 L 7,12 L 14,20" fill="none" stroke="#111111" stroke-width="1.5" />
+      <line x1="7" y1="0" x2="7" y2="-10" stroke="#888888" stroke-width="1.5" />
+    </g>
+
+    <!-- Right Earring -->
+    <g transform="translate(460, 335)">
+      <rect x="0" y="0" width="14" height="28" fill="#FDFBF7" stroke="#111111" stroke-width="1.5" rx="1" />
+      <circle cx="7" cy="8" r="5" fill="#D90429" />
+      <path d="M 0,20 L 7,12 L 14,20" fill="none" stroke="#111111" stroke-width="1.5" />
+      <line x1="7" y1="0" x2="7" y2="-10" stroke="#888888" stroke-width="1.5" />
+    </g>
+
+    <!-- Black Nichirin Katana Blade (Wrapped in Sun Breathing Flames) -->
+    <line x1="280" y1="700" x2="620" y2="350" stroke="#151515" stroke-width="10" stroke-linecap="round" />
+    <line x1="282" y1="698" x2="618" y2="352" stroke="#444444" stroke-width="2" stroke-linecap="round" />
+    <!-- Flame wrap around blade -->
+    <path d="M 320,660 Q 360,610 340,580 Q 400,530 380,500 Q 460,450 440,420 Q 520,380 580,360" fill="none" stroke="url(#solar-flame)" stroke-width="16" opacity="0.85" filter="blur(2px)" />
+  </g>
+
+  <!-- Corner Badge -->
+  <g transform="translate(40, 50)">
+    <rect width="210" height="34" rx="6" fill="#050201" opacity="0.8" stroke="#F4B82A" stroke-width="1.5" />
+    <text x="105" y="22" font-family="'Syne', sans-serif" font-weight="800" font-size="12" fill="#F4B82A" text-anchor="middle" letter-spacing="1">TANJIRO KAMADO · DEMON SLAYER</text>
+  </g>
+</svg>

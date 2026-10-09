@@ -1,0 +1,497 @@
+{
+  "Monkey D. Luffy": {
+    "id": 40,
+    "fullName": "Luffy Monkey",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+  },
+  "Roronoa Zoro": {
+    "id": 62,
+    "fullName": "Zoro Roronoa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+  },
+  "Nami": {
+    "id": 723,
+    "fullName": "Nami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+  },
+  "Usopp": {
+    "id": 724,
+    "fullName": "Usopp",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg"
+  },
+  "Sanji": {
+    "id": 305,
+    "fullName": "Sanji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+  },
+  "Tony Tony Chopper": {
+    "id": 309,
+    "fullName": "Chopper Tony Tony",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+  },
+  "Nico Robin": {
+    "id": 61,
+    "fullName": "Robin Nico",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+  },
+  "Franky": {
+    "id": 64,
+    "fullName": "Franky",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png"
+  },
+  "Brook": {
+    "id": 5627,
+    "fullName": "Brook",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png"
+  },
+  "Jinbe": {
+    "id": 18938,
+    "fullName": "Jinbe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18938-yZANEfjsVhW4.png"
+  },
+  "Nefertari Vivi": {
+    "id": 726,
+    "fullName": "Vivi Nefertari",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b726-DqAIpscMuYYx.png"
+  },
+  "Trafalgar Law": {
+    "id": 13767,
+    "fullName": "Law Trafalgar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+  },
+  "Boa Hancock": {
+    "id": 16342,
+    "fullName": "Hancock Boa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
+  },
+  "Yamato": {
+    "id": 176840,
+    "fullName": "Yamato",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176840-8KRqXXLJeLOg.png"
+  },
+  "Kozuki Momonosuke": {
+    "id": 126184,
+    "fullName": "Momonosuke Kouzuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126184-QZ8JNecT5wQc.png"
+  },
+  "Kinemon": {
+    "id": 67345,
+    "fullName": "Kinemon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67345-YYWagqYcgghY.png"
+  },
+  "Kikunojo": {
+    "id": 127913,
+    "fullName": "Kikunojou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127913-fKFTGlwZA9JH.png"
+  },
+  "Inuarashi": {
+    "id": 126182,
+    "fullName": "Inuarashi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126182-fyFwu3Ih1yej.jpg"
+  },
+  "Nekomamushi": {
+    "id": 126181,
+    "fullName": "Nekomamushi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126181-kleTMK1K9tda.jpg"
+  },
+  "Pedro": {
+    "id": 126180,
+    "fullName": "Pedro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126180-ud2y3PGElJDU.jpg"
+  },
+  "Carrot": {
+    "id": 209,
+    "fullName": "Kyou Souma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209-NOAbiLvJt1QA.png"
+  },
+  "Shirahoshi": {
+    "id": 40273,
+    "fullName": "Shirahoshi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40273.jpg"
+  },
+  "Rebecca": {
+    "id": 284163,
+    "fullName": "Rebecca",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
+  },
+  "Kyros": {
+    "id": 126109,
+    "fullName": "Kyros",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126109-aMp1clod63vA.jpg"
+  },
+  "Bartolomeo": {
+    "id": 85647,
+    "fullName": "Bartolomeo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n85647-WfwG1ixb2qZL.png"
+  },
+  "Cavendish": {
+    "id": 81709,
+    "fullName": "Diana Cavendish",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81709-N5Yff4r6geiM.png"
+  },
+  "Don Sai": {
+    "id": 90107,
+    "fullName": "Kusuo Saiki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+  },
+  "Leo": {
+    "id": 89025,
+    "fullName": "Leonardo Watch",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89025-mUe7SN8rIaWP.png"
+  },
+  "Hajrudin": {
+    "id": 244046,
+    "fullName": "Hajrudin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244046-IaFJvmTJk56a.png"
+  },
+  "Bentham": {
+    "id": 4875,
+    "fullName": "Bentham",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n4875-Ga2TVjP70R6r.png"
+  },
+  "Portgas D. Ace": {
+    "id": 2072,
+    "fullName": "Ace Portgas",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
+  },
+  "Sabo": {
+    "id": 32893,
+    "fullName": "Sabo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32893-3weZS61cdwLD.png"
+  },
+  "Kozuki Oden": {
+    "id": 149797,
+    "fullName": "Oden Kouzuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149797-UmdR7up3kgoK.png"
+  },
+  "Shanks": {
+    "id": 727,
+    "fullName": "Shanks",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png"
+  },
+  "Benn Beckman": {
+    "id": 4882,
+    "fullName": "Ben Beckman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4882-2zsLPjqUeOJ4.png"
+  },
+  "Yasopp": {
+    "id": 9562,
+    "fullName": "Yasopp",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9562-spNkmlnOZf7C.png"
+  },
+  "Edward Newgate": {
+    "id": 2751,
+    "fullName": "Newgate Edward",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2751-NnzW0N2vCTjX.jpg"
+  },
+  "Marco": {
+    "id": 9323,
+    "fullName": "Marco",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9323-tGArly93xBZv.png"
+  },
+  "Jozu": {
+    "id": 21559,
+    "fullName": "Jozu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21559.jpg"
+  },
+  "Izo": {
+    "id": 62,
+    "fullName": "Zoro Roronoa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+  },
+  "Charlotte Linlin": {
+    "id": 54495,
+    "fullName": "Linlin Charlotte",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54495-3x1TzSzPEOLd.jpg"
+  },
+  "Charlotte Katakuri": {
+    "id": 124077,
+    "fullName": "Katakuri Charlotte",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124077-TODX2ThCdyx2.png"
+  },
+  "Charlotte Smoothie": {
+    "id": 136036,
+    "fullName": "Smoothie Charlotte",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136036-hWdz3OAupfri.jpg"
+  },
+  "Charlotte Cracker": {
+    "id": 136035,
+    "fullName": "Cracker Charlotte",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136035-OWcGohs8YDwH.jpg"
+  },
+  "Charlotte Perospero": {
+    "id": 181760,
+    "fullName": "Perospero Charlotte",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181760-5H6hsVxrOSZk.jpg"
+  },
+  "Charlotte Pudding": {
+    "id": 134006,
+    "fullName": "Pudding Charlotte",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n134006-ZmzLQ5FrdtnL.jpg"
+  },
+  "Kaido": {
+    "id": 90112,
+    "fullName": "Shun Kaidou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90112-KVRcvbKBKLxY.png"
+  },
+  "King": {
+    "id": 417,
+    "fullName": "Lelouch Lamperouge",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+  },
+  "Queen": {
+    "id": 120649,
+    "fullName": "Kaguya Shinomiya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+  },
+  "Jack": {
+    "id": 159840,
+    "fullName": "Jack the Ripper",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159840-MvF5LfHGiZdB.jpg"
+  },
+  "Ulti": {
+    "id": 64769,
+    "fullName": "Shouyou Hinata",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+  },
+  "Page One": {
+    "id": 172132,
+    "fullName": "Page One",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172132-QpYBzNJ16R7n.jpg"
+  },
+  "Black Maria": {
+    "id": 172136,
+    "fullName": "Black Maria",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172136-OP1dmL2ZwTah.jpg"
+  },
+  "Marshall D. Teach": {
+    "id": 3331,
+    "fullName": "Teach Marshall",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3331-7ZJDc4BNv9Yp.jpg"
+  },
+  "Shiryu": {
+    "id": 5922,
+    "fullName": "Shiryu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5922-DzYFLk6qzQif.png"
+  },
+  "Jesus Burgess": {
+    "id": 9324,
+    "fullName": "Burgess Jesus",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9324-ZmlGx1pxRtYP.png"
+  },
+  "Van Augur": {
+    "id": 9325,
+    "fullName": "Augur Van",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9325-Ev3MbRVNYXIt.png"
+  },
+  "Kuzan": {
+    "id": 2752,
+    "fullName": "Kuzan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2752-0ENS2a39muDz.png"
+  },
+  "Sengoku": {
+    "id": 22050,
+    "fullName": "Nadeko Sengoku",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg"
+  },
+  "Sakazuki": {
+    "id": 22687,
+    "fullName": "Sakazuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22687-tCQVpj6wZhRk.jpg"
+  },
+  "Borsalino": {
+    "id": 21093,
+    "fullName": "Borsalino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21093-Pc4kOjUn3ZkZ.png"
+  },
+  "Issho": {
+    "id": 82259,
+    "fullName": "Isshou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82259-NFdvvcSHup7Z.jpg"
+  },
+  "Aramaki": {
+    "id": 19130,
+    "fullName": "Takahiro Aramaki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19130.jpg"
+  },
+  "Smoker": {
+    "id": 2753,
+    "fullName": "Smoker",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2753-Y2ja8Pl6PRs0.jpg"
+  },
+  "Tashigi": {
+    "id": 2750,
+    "fullName": "Tashigi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2750-j3Rf9SC37ehT.jpg"
+  },
+  "Koby": {
+    "id": 12361,
+    "fullName": "Koby",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12361-H0SmgKxZ9T61.png"
+  },
+  "Rob Lucci": {
+    "id": 5677,
+    "fullName": "Lucci Rob",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5677-ZrZunVe7Kq5P.png"
+  },
+  "Kaku": {
+    "id": 222593,
+    "fullName": "Ken Takakura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png"
+  },
+  "Stussy": {
+    "id": 135948,
+    "fullName": "Stussy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135948-tZBwXYW0WhT1.jpg"
+  },
+  "Eustass Kid": {
+    "id": 14989,
+    "fullName": "Kid Eustass",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14989-uykLqnBTdAc2.jpg"
+  },
+  "Killer": {
+    "id": 124381,
+    "fullName": "Zero Two",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
+  },
+  "Jewelry Bonney": {
+    "id": 20295,
+    "fullName": "Jewelry Bonney",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20295-LqpG4Y3HkKxu.png"
+  },
+  "Capone Bege": {
+    "id": 20292,
+    "fullName": "Bege Capone",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20292-6aIlR9qqSj1f.png"
+  },
+  "Basil Hawkins": {
+    "id": 20293,
+    "fullName": "Basil Hawkins",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20293-37ifsaMz7Kgx.png"
+  },
+  "Scratchmen Apoo": {
+    "id": 20288,
+    "fullName": "Apoo Scratchmen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20288-7ccM0oyUvyLu.jpg"
+  },
+  "Dracule Mihawk": {
+    "id": 2064,
+    "fullName": "Dracule Mihawk",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png"
+  },
+  "Crocodile": {
+    "id": 2749,
+    "fullName": "Crocodile",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2749-e8ebEBN1SlS2.png"
+  },
+  "Bartholomew Kuma": {
+    "id": 7453,
+    "fullName": "Kuma Bartholomew",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7453-c3MArieFBs9w.png"
+  },
+  "Donquixote Doflamingo": {
+    "id": 2754,
+    "fullName": "Doflamingo Donquixote",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2754-B4gGSlNYgsyh.jpg"
+  },
+  "Gecko Moria": {
+    "id": 7454,
+    "fullName": "Moria Gecko",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7454-WN77wNFvGtp8.png"
+  },
+  "Buggy": {
+    "id": 725,
+    "fullName": "Buggy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n725-g04AaiaK5f9B.png"
+  },
+  "Emporio Ivankov": {
+    "id": 22646,
+    "fullName": "Ivankov Emporio",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22646.jpg"
+  },
+  "Koala": {
+    "id": 43093,
+    "fullName": "Koala",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43093-STjuKaQk68Ex.jpg"
+  },
+  "Belo Betty": {
+    "id": 126146,
+    "fullName": "Belo Betty",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126146-s6wTxJ8EKDvJ.png"
+  },
+  "Arlong": {
+    "id": 4887,
+    "fullName": "Arlong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4887-hMOqSSpR5jFc.jpg"
+  },
+  "Enel": {
+    "id": 1541,
+    "fullName": "Enel",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1541-6c8RouunoL88.jpg"
+  },
+  "Magellan": {
+    "id": 22618,
+    "fullName": "Magellan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22618-ki6mxLc2f9Tm.png"
+  },
+  "Caesar Clown": {
+    "id": 61603,
+    "fullName": "Caesar Clown",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61603-x8RTOk7DIFIZ.jpg"
+  },
+  "Hody Jones": {
+    "id": 40266,
+    "fullName": "Hody Jones",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40266-TlrcPrnszeIu.jpg"
+  },
+  "Kurozumi Orochi": {
+    "id": 132669,
+    "fullName": "Orochi Kurozumi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132669-TGXODbAMwtLV.png"
+  },
+  "Silvers Rayleigh": {
+    "id": 17142,
+    "fullName": "Rayleigh Silvers",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17142-OXOpztWZIE2A.png"
+  },
+  "Zeff": {
+    "id": 10444,
+    "fullName": "Zeff",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10444.jpg"
+  },
+  "Belle-mere": {
+    "id": 4890,
+    "fullName": "Bellemere",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4890.jpg"
+  },
+  "Dr. Hiriluk": {
+    "id": 19271,
+    "fullName": "Hiluluk",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19271-AqWZCtTJieBx.jpg"
+  },
+  "Dr. Kureha": {
+    "id": 139401,
+    "fullName": "Kureha Crylet",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139401-zDY9FkZPrdWh.png"
+  },
+  "Tom": {
+    "id": 130050,
+    "fullName": "Giyuu Tomioka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+  },
+  "Gol D. Roger": {
+    "id": 4883,
+    "fullName": "Roger Gold",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4883-0t76xH00sehO.png"
+  },
+  "Monkey D. Garp": {
+    "id": 8064,
+    "fullName": "Garp",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8064-dPltKaZ8RAsj.jpg"
+  },
+  "Monkey D. Dragon": {
+    "id": 497,
+    "fullName": "Artoria Pendragon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+  }
+}

@@ -1,0 +1,1374 @@
+{
+  "Ichigo Kurosaki": {
+    "id": 5,
+    "name": "Ichigo Kurosaki",
+    "native": "\u9ed2\u5d0e\u4e00\u8b77",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
+  },
+  "Kisuke Urahara": {
+    "id": 210,
+    "name": "Kisuke Urahara",
+    "native": "\u6d66\u539f\u559c\u52a9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png"
+  },
+  "Rukia Kuchiki": {
+    "id": 6,
+    "name": "Rukia Kuchiki",
+    "native": "\u673d\u6728\u30eb\u30ad\u30a2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+  },
+  "Yoruichi Shihouin": {
+    "id": 908,
+    "name": "Yoruichi Shihouin",
+    "native": "\u56db\u6953\u9662\u591c\u4e00",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+  },
+  "Sousuke Aizen": {
+    "id": 1086,
+    "name": "Sousuke Aizen",
+    "native": "\u85cd\u67d3\u60e3\u53f3\u4ecb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png",
+    "alternative": []
+  },
+  "Kenpachi Zaraki": {
+    "id": 909,
+    "name": "Kenpachi Zaraki",
+    "native": "\u66f4\u6728\u5263\u516b",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b909-slhoFBon7oiH.jpg"
+  },
+  "Ulquiorra Cifer": {
+    "id": 1081,
+    "name": "Ulquiorra Cifer",
+    "native": "\u30a6\u30eb\u30ad\u30aa\u30e9\u30fb\u30b7\u30d5\u30a1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1081-xLTqHfLL2I2W.png",
+    "alternative": [
+      "Schiffer"
+    ]
+  },
+  "Grimmjow Jaegerjaquez": {
+    "id": 1080,
+    "name": "Grimmjow Jaegerjaquez",
+    "native": "\u30b0\u30ea\u30e0\u30b8\u30e7\u30fc\u30fb\u30b8\u30e3\u30ac\u30fc\u30b8\u30e3\u30c3\u30af",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1080-JUNo2Or0UGZg.jpg",
+    "alternative": []
+  },
+  "Orihime Inoue": {
+    "id": 7,
+    "name": "Orihime Inoue",
+    "native": "\u4e95\u4e0a\u7e54\u59eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg"
+  },
+  "Toushirou Hitsugaya": {
+    "id": 245,
+    "name": "Toushirou Hitsugaya",
+    "native": "\u65e5\u756a\u8c37\u51ac\u7345\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245-buy3Cfn6IFSB.jpg"
+  },
+  "Byakuya Kuchiki": {
+    "id": 907,
+    "name": "Byakuya Kuchiki",
+    "native": "\u673d\u6728\u767d\u54c9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b907-kgnDKeMtEN5y.png"
+  },
+  "Jirou Sakuranosuke Shunsui Kyouraku": {
+    "id": 1088,
+    "name": "Jirou Sakuranosuke Shunsui Kyouraku",
+    "native": "\u4eac\u697d\u6b21\u90ce\u7dcf\u8535\u4f50\u6625\u6c34",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1088-6oO10CmxZ1lP.jpg"
+  },
+  "Shinji Hirako": {
+    "id": 1084,
+    "name": "Shinji Hirako",
+    "native": "\u5e73\u5b50\u771f\u5b50",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1084-36qzqGdvxVLI.jpg"
+  },
+  "Gin Ichimaru": {
+    "id": 1087,
+    "name": "Gin Ichimaru",
+    "native": "\u5e02\u4e38\u30ae\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1087-wMTny26FezYB.png",
+    "alternative": [
+      "Kitsune"
+    ]
+  },
+  "Renji Abarai": {
+    "id": 906,
+    "name": "Renji Abarai",
+    "native": "\u963f\u6563\u4e95\u604b\u6b21",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b906-ImRjx5HFM8X6.png"
+  },
+  "Uryuu Ishida": {
+    "id": 564,
+    "name": "Uryuu Ishida",
+    "native": "\u77f3\u7530\u96e8\u7adc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b564-a6LJitrjSfKC.jpg"
+  },
+  "Nelliel Tu Oderschvank": {
+    "id": 4730,
+    "name": "Nelliel Tu Oderschvank",
+    "native": "\u30cd\u30ea\u30a8\u30eb\u30fb\u30c8\u30a5\u30fb\u30aa\u30fc\u30c7\u30eb\u30b7\u30e5\u30f4\u30a1\u30f3\u30af",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4730-zvzowqOHaQL2.png",
+    "alternative": [
+      "Nel Tu"
+    ]
+  },
+  "Rangiku Matsumoto": {
+    "id": 904,
+    "name": "Rangiku Matsumoto",
+    "native": "\u677e\u672c\u4e71\u83ca",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
+  },
+  "Soi Fon": {
+    "id": 905,
+    "name": "Soi Fon",
+    "native": "\u7815\u8702",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png"
+  },
+  "Yasutora Sado": {
+    "id": 575,
+    "name": "Yasutora Sado",
+    "native": "\u8336\u6e21\u6cf0\u864e",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/575.jpg"
+  },
+  "Retsu Unohana": {
+    "id": 3845,
+    "name": "Retsu Unohana",
+    "native": "\u536f\u30ce\u82b1\u70c8",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3845-B0r5OCEkdJOR.png",
+    "alternative": [
+      "Ren-chan"
+    ]
+  },
+  "Mayuri Kurotsuchi": {
+    "id": 1168,
+    "name": "Mayuri Kurotsuchi",
+    "native": "\u6d85\u30de\u30e6\u30ea",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1168-y2jsGtlJVv4z.png"
+  },
+  "Zangetsu": {
+    "id": 911,
+    "name": "Zangetsu",
+    "native": "\u65ac\u6708",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b911-KgzOcvf4jhOh.png",
+    "alternative": [
+      "Kokui no Otoko (\u9ed2\u8863\u306e\u7537)"
+    ]
+  },
+  "Shuuhei Hisagi": {
+    "id": 1095,
+    "name": "Shuuhei Hisagi",
+    "native": "\u6a9c\u4f50\u6728\u4fee\u5175",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1095-0vUC9qW8qXey.png"
+  },
+  "Ikkaku Madarame": {
+    "id": 1151,
+    "name": "Ikkaku Madarame",
+    "native": "\u6591\u76ee\u4e00\u89d2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1151-izBrO6oWMvDv.png"
+  },
+  "Yachiru Kusajishi": {
+    "id": 910,
+    "name": "Yachiru Kusajishi",
+    "native": "\u8349\u9e7f\u516b\u5343\u6d41",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b910-cAC9g4i208Ou.png"
+  },
+  "Kon": {
+    "id": 1089,
+    "name": "Kon",
+    "native": "\u30b3\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1089.jpg"
+  },
+  "Genryuusai Yamamoto": {
+    "id": 5726,
+    "name": "Genryuusai Yamamoto",
+    "native": "\u5c71\u672c\u5143\u67f3\u658e\u91cd\u570b",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5726-mO7kc8Abka9J.jpg",
+    "alternative": [
+      "Commander",
+      "Yama-jii",
+      "Old Man Yama",
+      "Head Captain"
+    ]
+  },
+  "Coyote Starrk": {
+    "id": 3212,
+    "name": "Coyote Starrk",
+    "native": "\u30b3\u30e8\u30fc\u30c6\u30fb\u30b9\u30bf\u30fc\u30af",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3212-F5qZe4NWlZq9.png",
+    "alternative": []
+  },
+  "Nemu Kurotsuchi": {
+    "id": 3100,
+    "name": "Nemu Kurotsuchi",
+    "native": "\u6d85\u30cd\u30e0",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3100-RTZLrbclOLRh.jpg"
+  },
+  "Yhwach": {
+    "id": 68537,
+    "name": "Yhwach",
+    "native": "\u30e6\u30fc\u30cf\u30d0\u30c3\u30cf",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68537-1bRB5OdseCp0.jpg"
+  },
+  "Tier Harribel": {
+    "id": 3217,
+    "name": "Tier Harribel",
+    "native": "\u30c6\u30a3\u30a2\u30fb\u30cf\u30ea\u30d9\u30eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3217-WahxtOqdRxJq.png",
+    "alternative": [
+      "Halibel"
+    ]
+  },
+  "Riruka Dokugamine": {
+    "id": 39609,
+    "name": "Riruka Dokugamine",
+    "native": "\u6bd2\u30f6\u5cf0\u30ea\u30eb\u30ab",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39609-uFe2eljvz1Sn.png",
+    "alternative": []
+  },
+  "Juushirou Ukitake": {
+    "id": 2682,
+    "name": "Juushirou Ukitake",
+    "native": "\u6d6e\u7af9\u5341\u56db\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2682-4BB6qdB296iG.png"
+  },
+  "Bambietta Basterbine": {
+    "id": 64511,
+    "name": "Bambietta Basterbine",
+    "native": "\u30d0\u30f3\u30d3\u30a8\u30c3\u30bf\u30fb\u30d0\u30b9\u30bf\u30fc\u30d0\u30a4\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64511-zr1ivnK8qPF2.jpg"
+  },
+  "Kuukaku Shiba": {
+    "id": 1090,
+    "name": "Kuukaku Shiba",
+    "native": "\u5fd7\u6ce2\u7a7a\u9db4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1090.jpg",
+    "alternative": []
+  },
+  "Isshin Kurosaki": {
+    "id": 2553,
+    "name": "Isshin Kurosaki",
+    "native": "\u9ed2\u5d0e\u4e00\u5fc3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2553-tDUlab4F0lFJ.png",
+    "alternative": []
+  },
+  "Jugram Haschwalth": {
+    "id": 71949,
+    "name": "Jugram Haschwalth",
+    "native": "\u30e6\u30fc\u30b0\u30e9\u30e0\u30fb\u30cf\u30c3\u30b7\u30e5\u30f4\u30a1\u30eb\u30c8",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71949-wcakVhS04k9t.png"
+  },
+  "Kaname Tousen": {
+    "id": 1085,
+    "name": "Kaname Tousen",
+    "native": "\u6771\u4ed9\u8981",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1085.jpg",
+    "alternative": []
+  },
+  "Senjumaru Shutara": {
+    "id": 74361,
+    "name": "Senjumaru Shutara",
+    "native": "\u4fee\u591a\u7f85\u5343\u624b\u4e38",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74361-xZVDAsxJmXJY.png"
+  },
+  "Hiyori Sarugaki": {
+    "id": 1158,
+    "name": "Hiyori Sarugaki",
+    "native": "\u733f\u67ff\u3072\u3088\u91cc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1158-El0ysCY1dLKy.png"
+  },
+  "Giselle Gewelle ": {
+    "id": 145160,
+    "name": "Giselle Gewelle ",
+    "native": "\u30b8\u30bc\u30eb\u30fb\u30b8\u30e5\u30a8\u30eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145160-VrXSlTGufX0s.jpg"
+  },
+  "Yumichika Ayasegawa": {
+    "id": 3911,
+    "name": "Yumichika Ayasegawa",
+    "native": "\u7dbe\u702c\u5ddd\u5f13\u89aa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3911-MPzJX9ra7TRN.png"
+  },
+  "Nanao Ise": {
+    "id": 3095,
+    "name": "Nanao Ise",
+    "native": "\u4f0a\u52e2\u4e03\u7dd2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3095-jgR7uWIcBnzL.png"
+  },
+  "Lisa Yadoumaru": {
+    "id": 2343,
+    "name": "Lisa Yadoumaru",
+    "native": "\u77e2\u80f4\u4e38\u30ea\u30b5",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2343-UzmRMWkqWGhV.png"
+  },
+  "As Nodt": {
+    "id": 64663,
+    "name": "As Nodt",
+    "native": "\u30a8\u30b9\u30fb\u30ce\u30c8",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64663-jwXgeNNZgRgQ.jpg"
+  },
+  "Izuru Kira": {
+    "id": 1093,
+    "name": "Izuru Kira",
+    "native": "\u5409\u826f\u30a4\u30ba\u30eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1093-QmEOUj6fXYOK.png",
+    "alternative": []
+  },
+  "Sajin Komamura": {
+    "id": 4298,
+    "name": "Sajin Komamura",
+    "native": "\u72db\u6751\u5de6\u9663",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4298-nuazBlSaHL7y.png"
+  },
+  "Tatsuki Arisawa": {
+    "id": 1094,
+    "name": "Tatsuki Arisawa",
+    "native": "\u6709\u6ca2\u7adc\u8cb4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1094-NQUclNUVyIaF.jpg"
+  },
+  "Isane Kotetsu": {
+    "id": 7059,
+    "name": "Isane Kotetsu",
+    "native": "\u864e\u5fb9\u52c7\u97f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7059-X5eRgZ9ZtnUG.jpg"
+  },
+  "Ouetsu Nimaiya": {
+    "id": 75654,
+    "name": "Ouetsu Nimaiya",
+    "native": "\u4e8c\u679a\u5c4b\u738b\u60a6",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75654-toLRJqeG6L8p.png"
+  },
+  "Karin Kurosaki": {
+    "id": 4018,
+    "name": "Karin Kurosaki",
+    "native": "\u9ed2\u5d0e\u590f\u68a8",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4018-M4tKGEeRdOjD.png",
+    "alternative": []
+  },
+  "Candice  Catnipp": {
+    "id": 189753,
+    "name": "Candice  Catnipp",
+    "native": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30b9\u30fb\u30ad\u30e3\u30c3\u30c8\u30cb\u30c3\u30d7",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189753-Shlnpav1hn3z.jpg"
+  },
+  "Ichibe Hyousube": {
+    "id": 74359,
+    "name": "Ichibe Hyousube",
+    "native": "\u5175\u4e3b\u90e8\u4e00\u5175\u885b",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74359-ruMPBJV92Ncr.jpg"
+  },
+  "Hanatarou Yamada": {
+    "id": 2161,
+    "name": "Hanatarou Yamada",
+    "native": "\u5c71\u7530\u82b1\u592a\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2161-DyKLTXn1hkcL.png",
+    "alternative": []
+  },
+  "Szayel Aporro Grantz": {
+    "id": 3211,
+    "name": "Szayel Aporro Grantz",
+    "native": "\u30b6\u30a8\u30eb\u30a2\u30dd\u30ed\u30fb\u30b0\u30e9\u30f3\u30c4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3211-zqoObUuMBvul.png",
+    "alternative": []
+  },
+  "Kensei Muguruma": {
+    "id": 2344,
+    "name": "Kensei Muguruma",
+    "native": "\u516d\u8eca\u62f3\u897f",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2344-ZvQAiyfpcERl.png"
+  },
+  "Bazz-B": {
+    "id": 72097,
+    "name": "Bazz-B",
+    "native": "\u30d0\u30ba\u30d3\u30fc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72097-JfuCqBWH3eHG.png"
+  },
+  "Momo Hinamori": {
+    "id": 1092,
+    "name": "Momo Hinamori",
+    "native": "\u96db\u68ee\u6843",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1092.jpg"
+  },
+  "Askin Nakk Le Vaar": {
+    "id": 87085,
+    "name": "Askin Nakk Le Vaar",
+    "native": "\u30a2\u30b9\u30ad\u30f3\u30fb\u30ca\u30c3\u30af\u30eb\u30f4\u30a1\u30fc\u30eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87085-Palc4QziNCjO.png"
+  },
+  "Shuukurou Tsukishima": {
+    "id": 41052,
+    "name": "Shuukurou Tsukishima",
+    "native": "\u6708\u5cf6\u79c0\u4e5d\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41052-qYaEYkyc7JIQ.png",
+    "alternative": []
+  },
+  "Masaki Kurosaki": {
+    "id": 22849,
+    "name": "Masaki Kurosaki",
+    "native": "\u9ed2\u5d0e\u771f\u54b2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22849-otOHGvyllWxD.png",
+    "alternative": []
+  },
+  "Ryuuken Ishida": {
+    "id": 1083,
+    "name": "Ryuuken Ishida",
+    "native": "\u77f3\u7530\u7adc\u5f26",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1083-NnfsmUxq9493.png",
+    "alternative": []
+  },
+  "Mashiro Kuna": {
+    "id": 2342,
+    "name": "Mashiro Kuna",
+    "native": "\u4e45\u5357\u767d",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2342-HgxxCTpDXn8P.png",
+    "alternative": []
+  },
+  "Nnoitra Gilga": {
+    "id": 3210,
+    "name": "Nnoitra Gilga",
+    "native": "\u30ce\u30a4\u30c8\u30e9\u30fb\u30b8\u30eb\u30ac",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3210-QlxtHKmXjFk0.png",
+    "alternative": []
+  },
+  "Ururu Tsumugiya": {
+    "id": 3528,
+    "name": "Ururu Tsumugiya",
+    "native": "\u7d2c\u5c4b\u96e8",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3528-KwSjRgsgYqW8.png",
+    "alternative": []
+  },
+  "Gremmy Thoumeaux": {
+    "id": 189752,
+    "name": "Gremmy Thoumeaux",
+    "native": "\u30b0\u30ec\u30df\u30a3\u30fb\u30c8\u30a5\u30df\u30e5\u30fc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189752-PozaqknSCGPS.png"
+  },
+  "Kuugo Ginjou": {
+    "id": 38471,
+    "name": "Kuugo Ginjou",
+    "native": "\u9280\u57ce\u7a7a\u543e",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38471-hakxlfbUxEQO.png",
+    "alternative": []
+  },
+  "Pesche Guatiche": {
+    "id": 7426,
+    "name": "Pesche Guatiche",
+    "native": "\u30da\u30c3\u30b7\u30a7\u30fb\u30ac\u30c6\u30a3\u30fc\u30b7\u30a7",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7426.jpg",
+    "alternative": []
+  },
+  "Kaien Shiba": {
+    "id": 1893,
+    "name": "Kaien Shiba",
+    "native": "\u5fd7\u6ce2\u6d77\u71d5",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1893-dd3KycfGEIGl.png",
+    "alternative": []
+  },
+  "Yuzu Kurosaki": {
+    "id": 1096,
+    "name": "Yuzu Kurosaki",
+    "native": "\u9ed2\u5d0e\u904a\u5b50",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1096.jpg",
+    "alternative": []
+  },
+  "Ganju Shiba": {
+    "id": 1091,
+    "name": "Ganju Shiba",
+    "native": "\u5fd7\u6ce2\u5ca9\u9df2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1091.jpg"
+  },
+  "Ikumi Unagiya": {
+    "id": 48557,
+    "name": "Ikumi Unagiya",
+    "native": "\u9c3b\u5c4b\u80b2\u7f8e",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b48557-H94I98rbMbEk.png",
+    "alternative": []
+  },
+  "Baraggan Louisenbairn": {
+    "id": 10507,
+    "name": "Baraggan Louisenbairn",
+    "native": "\u30d0\u30e9\u30ac\u30f3\u30fb\u30eb\u30a4\u30bc\u30f3\u30d0\u30fc\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10507.jpg",
+    "alternative": []
+  },
+  "Kirio Hikifune": {
+    "id": 74357,
+    "name": "Kirio Hikifune",
+    "native": "\u66f3\u821f\u6850\u751f",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74357-C51Ta83pXtDK.png"
+  },
+  "Cyan Sung-Sun": {
+    "id": 17150,
+    "name": "Cyan Sung-Sun",
+    "native": "\u30b7\u30a2\u30f3\u30fb\u30b9\u30f3\u30b9\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17150.jpg",
+    "alternative": [
+      "Sun-Sun"
+    ]
+  },
+  "Don Kan'onji": {
+    "id": 9062,
+    "name": "Don Kan'onji",
+    "native": "\u30c9\u30f3\u89b3\u97f3\u5bfa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9062.jpg",
+    "alternative": []
+  },
+  "Lilynette Gingerback": {
+    "id": 14351,
+    "name": "Lilynette Gingerback",
+    "native": "\u30ea\u30ea\u30cd\u30c3\u30c8\u30fb\u30b8\u30f3\u30b8\u30e3\u30fc\u30d0\u30c3\u30af",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14351.jpg",
+    "alternative": []
+  },
+  "Franceska Mila Rose": {
+    "id": 21700,
+    "name": "Franceska Mila Rose",
+    "native": "\u30d5\u30e9\u30f3\u30c1\u30a7\u30b9\u30ab\u30fb\u30df\u30e9\u30fb\u30ed\u30fc\u30ba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21700.jpg",
+    "alternative": []
+  },
+  "Liltotto Lamperd": {
+    "id": 239945,
+    "name": "Liltotto Lamperd",
+    "native": "\u30ea\u30eb\u30c8\u30c3\u30c8\u30fb\u30e9\u30f3\u30d1\u30fc\u30c9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b239945-AdyJA4tL3BXu.png"
+  },
+  "Meninas McAllon": {
+    "id": 291188,
+    "name": "Meninas McAllon",
+    "native": "\u30df\u30cb\u30fc\u30cb\u30e3\u30fb\u30de\u30ab\u30ed\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291188-0nsuTVVcM59Q.png"
+  },
+  "Yukio Hans Vorarlberna": {
+    "id": 41126,
+    "name": "Yukio Hans Vorarlberna",
+    "native": "\u96ea\u7eea\uff65\u30cf\u30f3\u30b9\uff65\u30d5\u30a9\u30e9\u30eb\u30eb\u30d9\u30eb\u30ca",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41126-zxwKFGt8PPm8.png",
+    "alternative": []
+  },
+  "Cirucci Thunderwitch": {
+    "id": 7429,
+    "name": "Cirucci Thunderwitch",
+    "native": "\u30c1\u30eb\u30c3\u30c1\u30fb\u30b5\u30f3\u30c0\u30fc\u30a6\u30a3\u30c3\u30c1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7429-6bwRITWlAsnJ.png"
+  },
+  "Loly Aivirrne": {
+    "id": 16042,
+    "name": "Loly Aivirrne",
+    "native": "\u30ed\u30ea\u00b7\u30a2\u30a4\u30f4\u30a1\u30fc\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16042.jpg",
+    "alternative": [
+      "Rori Aiv\u0101n"
+    ]
+  },
+  "Dondochakka Birstanne": {
+    "id": 8021,
+    "name": "Dondochakka Birstanne",
+    "native": "\u30c9\u30f3\u30c9\u30c1\u30e3\u30c3\u30ab\u30fb\u30d3\u30eb\u30b9\u30bf\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8021.jpg",
+    "alternative": []
+  },
+  "Keigo Asano": {
+    "id": 4227,
+    "name": "Keigo Asano",
+    "native": "\u6d45\u91ce\u5553\u543e",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4227.jpg"
+  },
+  "Roujuuro Otoribashi": {
+    "id": 2341,
+    "name": "Roujuuro Otoribashi",
+    "native": "\u9cf3\u6a4b\u697c\u5341\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2341-9TX1HBmLggia.png"
+  },
+  "Kazui Kurosaki": {
+    "id": 239940,
+    "name": "Kazui Kurosaki",
+    "native": "\u9ed2\u5d0e\u4e00\u52c7",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b239940-rgT40Ap8j0E3.png",
+    "alternative": []
+  },
+  "Tenjiirou Kirinji": {
+    "id": 75068,
+    "name": "Tenjiirou Kirinji",
+    "native": "\u9e92\u9e9f\u5bfa\u5929\u793a\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75068-Laov9XsW86Tv.png"
+  },
+  "Lille Barro": {
+    "id": 239946,
+    "name": "Lille Barro",
+    "native": "\u30ea\u30b8\u30a7\u30fb\u30d0\u30ed",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b239946-B6xoVJN0F6pa.png"
+  },
+  "Ichika Abarai": {
+    "id": 204231,
+    "name": "Ichika Abarai",
+    "native": "\u963f\u6563\u4e95\u82fa\u82b1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204231-LNwyXfn381jy.png",
+    "alternative": []
+  },
+  "Bawabawa": {
+    "id": 8139,
+    "name": "Bawabawa",
+    "native": "\u30d0\u30ef\u30d0\u30ef",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8139.jpg",
+    "alternative": []
+  },
+  "Wonderweiss Margela": {
+    "id": 1082,
+    "name": "Wonderweiss Margela",
+    "native": "\u30ef\u30f3\u30c0\u30fc\u30ef\u30a4\u30b9\u30fb\u30de\u30eb\u30b8\u30a7\u30e9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1082-3wZlPgmoNW1j.png",
+    "alternative": []
+  },
+  "Hachigen Ushouda": {
+    "id": 2345,
+    "name": "Hachigen Ushouda",
+    "native": "\u6709\u662d\u7530\u9262\u7384",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2345.jpg"
+  },
+  "Emilou Apacci": {
+    "id": 17960,
+    "name": "Emilou Apacci",
+    "native": "\u30a8\u30df\u30eb\u30fc\u30fb\u30a2\u30d1\u30c3\u30c1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17960.jpg",
+    "alternative": []
+  },
+  "Hisana Kuchiki": {
+    "id": 18964,
+    "name": "Hisana Kuchiki",
+    "native": "\u673d\u6728\u7dcb\u771f",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18964.jpg",
+    "alternative": []
+  },
+  "Gerard Valkyrie": {
+    "id": 135187,
+    "name": "Gerard Valkyrie",
+    "native": "\u30b8\u30a7\u30e9\u30eb\u30c9\u30fb\u30f4\u30a1\u30eb\u30ad\u30ea\u30fc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135187-W88g77Uq7ufv.png"
+  },
+  "Luppi Antenor": {
+    "id": 1152,
+    "name": "Luppi Antenor",
+    "native": "\u30eb\u30d4\u00b7\u30a2\u30f3\u30c6\u30ce\u30fc\u30eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1152-fBXUCtSJNi9P.png"
+  },
+  "Jinta Hanakari": {
+    "id": 8018,
+    "name": "Jinta Hanakari",
+    "native": "\u82b1\u5208\u30b8\u30f3\u592a",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8018.jpg",
+    "alternative": []
+  },
+  "Ggio Vega": {
+    "id": 16573,
+    "name": "Ggio Vega",
+    "native": "\u30b8\u30aa\u30fb\u30f4\u30a7\u30ac",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16573.jpg",
+    "alternative": []
+  },
+  "Mask De Masculine": {
+    "id": 87081,
+    "name": "Mask De Masculine",
+    "native": "\u30de\u30b9\u30af\u30fb\u30c9\u30fb\u30de\u30b9\u30ad\u30e5\u30ea\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87081-y4Ivj8OqQ1zH.png"
+  },
+  "Chizuru Honshou": {
+    "id": 12947,
+    "name": "Chizuru Honshou",
+    "native": "\u672c\u5320\u5343\u9db4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12947.jpg",
+    "alternative": []
+  },
+  "Kiyone Kotetsu": {
+    "id": 5176,
+    "name": "Kiyone Kotetsu",
+    "native": "\u864e\u5fb9\u6e05\u97f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5176-AsYPxjTxN5QH.png"
+  },
+  "Dordonii Alessandro Del Socacchio": {
+    "id": 7430,
+    "name": "Dordonii Alessandro Del Socacchio",
+    "native": "\u30c9\u30eb\u30c9\u30fc\u30cb\u30fb\u30a2\u30ec\u30c3\u30b5\u30f3\u30c9\u30ed\u30fb\u30c7\u30eb\u30fb\u30bd\u30ab\u30c3\u30c1\u30aa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7430-oZXzM4cbH8qc.png"
+  },
+  "Mizuiro Kojima": {
+    "id": 9060,
+    "name": "Mizuiro Kojima",
+    "native": "\u5c0f\u5cf6\u6c34\u8272",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9060.jpg"
+  },
+  "Quilge Opie": {
+    "id": 60535,
+    "name": "Quilge Opie",
+    "native": "\u30ad\u30eb\u30b2\u30fb\u30aa\u30d4\u30fc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60535-L30Mu5HzErKv.png",
+    "alternative": [
+      "The Jail",
+      "Kirge"
+    ]
+  },
+  "Love Aikawa": {
+    "id": 2340,
+    "name": "Love Aikawa",
+    "native": "\u611b\u5ddd\u7f85\u6b66",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2340.jpg"
+  },
+  "Aaroniero Arruruerie": {
+    "id": 3209,
+    "name": "Aaroniero Arruruerie",
+    "native": "\u30a2\u30fc\u30ed\u30cb\u30fc\u30ed\u30fb\u30a2\u30eb\u30eb\u30a8\u30ea",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3209-qEAXukEt8MRh.png",
+    "alternative": []
+  },
+  "Oscar Joaquin de la Rosa": {
+    "id": 24705,
+    "name": "Oscar Joaquin de la Rosa",
+    "native": "\u30aa\u30b9\u30ab\u30fc\u30fb\u30db\u30a2\u30ad\u30f3\u30fb\u30c7\u30fb\u30e9\u30fb\u30ed\u30b5",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24705.jpg",
+    "alternative": [
+      "Abuelo"
+    ]
+  },
+  "Tetsuzaemon Iba": {
+    "id": 18461,
+    "name": "Tetsuzaemon Iba",
+    "native": "\u5c04\u5834\u9244\u5de6\u885b\u9580",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18461-WmBOltJcVJsg.png"
+  },
+  "Jackie Tristan": {
+    "id": 41563,
+    "name": "Jackie Tristan",
+    "native": "\u30b8\u30e3\u30c3\u30ad\u30fc\u30fb\u30c8\u30ea\u30b9\u30bf\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41563-6FplDzkFGeyB.png",
+    "alternative": []
+  },
+  "Charlotte Chuhlhourne": {
+    "id": 21634,
+    "name": "Charlotte Chuhlhourne",
+    "native": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6\u30fb\u30af\u30fc\u30eb\u30db\u30fc\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21634.jpg"
+  },
+  "Tessai Tsukabishi": {
+    "id": 15571,
+    "name": "Tessai Tsukabishi",
+    "native": "\u63e1\u83f1\u30c6\u30c3\u30b5\u30a4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15571.jpg",
+    "alternative": []
+  },
+  "Akon": {
+    "id": 22892,
+    "name": "Akon",
+    "native": "\u963f\u8fd1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22892-3YTzrfhH52J2.png"
+  },
+  "Kanae Katagiri": {
+    "id": 85235,
+    "name": "Kanae Katagiri",
+    "native": "\u7247\u6850\u53f6\u7d75",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85235-qe0kLbpUwrnh.png",
+    "alternative": []
+  },
+  "Mizuho Asano": {
+    "id": 4357,
+    "name": "Mizuho Asano",
+    "native": "\u6d45\u91ce\u745e\u7a42",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4357.jpg",
+    "alternative": []
+  },
+  "Choujiro Sasakibe": {
+    "id": 5727,
+    "name": "Choujiro Sasakibe",
+    "native": "\u96c0\u90e8\u9577\u6b21\u90ce\u5fe0\u606f",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5727.jpg",
+    "alternative": []
+  },
+  "Marechiyo Oomaeda": {
+    "id": 5728,
+    "name": "Marechiyo Oomaeda",
+    "native": "\u5927\u524d\u7530\u5e0c\u5343\u4ee3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5728.jpg"
+  },
+  "Menoly Mallia": {
+    "id": 22944,
+    "name": "Menoly Mallia",
+    "native": "\u30e1\u30ce\u30ea\u00b7\u30de\u30ea\u30a2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22944.jpg",
+    "alternative": []
+  },
+  "Ashisogi Jizo": {
+    "id": 59739,
+    "name": "Ashisogi Jizo",
+    "native": "\u758b\u6bba\u5730\u8535",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59739.jpg",
+    "alternative": [
+      "Konjiki Ashisogi Jizo"
+    ]
+  },
+  "Tsubaki": {
+    "id": 31389,
+    "name": "Tsubaki",
+    "native": "\u693f\u9b3c",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31389.jpg",
+    "alternative": []
+  },
+  "Tesla Lindocruz": {
+    "id": 14630,
+    "name": "Tesla Lindocruz",
+    "native": "\u30c6\u30b9\u30e9\u30fb\u30ea\u30f3\u30c9\u30af\u30eb\u30c4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14630.jpg",
+    "alternative": []
+  },
+  "Rin Tsubokura": {
+    "id": 15457,
+    "name": "Rin Tsubokura",
+    "native": "\u58f7\u5e9c\u30ea\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15457.jpg",
+    "alternative": []
+  },
+  "Jidanbou Ikkanzaka": {
+    "id": 18465,
+    "name": "Jidanbou Ikkanzaka",
+    "native": "\u4e00\u8cab\u5742\u5155\u4e39\u574a",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18465.jpg",
+    "alternative": []
+  },
+  "Miyako Shiba": {
+    "id": 22895,
+    "name": "Miyako Shiba",
+    "native": "\u5fd7\u6ce2\u90fd",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22895.jpg",
+    "alternative": []
+  },
+  "Cang Du": {
+    "id": 87079,
+    "name": "Cang Du",
+    "native": "\u84bc\u90fd",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87079-MQKrzWOeQg8U.png"
+  },
+  "James": {
+    "id": 310783,
+    "name": "James",
+    "native": "\u30b8\u30a7\u30a4\u30e0\u30ba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310783-e3ck7ko9453V.jpg"
+  },
+  "Ilforte Grantz": {
+    "id": 1154,
+    "name": "Ilforte Grantz",
+    "native": "\u30a4\u30fc\u30eb\u30d5\u30a9\u30eb\u30c8\u30fb\u30b0\u30e9\u30f3\u30c4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1154.jpg",
+    "alternative": []
+  },
+  "Lily": {
+    "id": 11328,
+    "name": "Lily",
+    "native": "\u30ea\u30ea\u30a3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11328.jpg",
+    "alternative": []
+  },
+  "Yammy Llargo": {
+    "id": 1159,
+    "name": "Yammy Llargo",
+    "native": "\u30e4\u30df\u30fc\u30fb\u30ea\u30e4\u30eb\u30b4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1159.jpg",
+    "alternative": []
+  },
+  "Zommari Leroux": {
+    "id": 6131,
+    "name": "Zommari Leroux",
+    "native": "\u30be\u30de\u30ea\u30fb\u30eb\u30eb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6131.jpg",
+    "alternative": []
+  },
+  "Yuushirou Shihouin": {
+    "id": 315730,
+    "name": "Yuushirou Shihouin",
+    "native": "\u56db\u6953\u9662\u5915\u56db\u90ce\u90ce\u54b2\u5b97",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315730-iZ3bWW0R8wS9.png"
+  },
+  "Ryo Kunieda": {
+    "id": 22852,
+    "name": "Ryo Kunieda",
+    "native": "\u56fd\u679d\u9234",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22852.jpg",
+    "alternative": []
+  },
+  "Mahana Natsui": {
+    "id": 22853,
+    "name": "Mahana Natsui",
+    "native": "\u590f\u4e95\u771f\u82b1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22853.jpg",
+    "alternative": []
+  },
+  "Ayame": {
+    "id": 31386,
+    "name": "Ayame",
+    "native": "\u3042\u3084\u3081",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31386.jpg",
+    "alternative": []
+  },
+  "D-Roy Rinker": {
+    "id": 1153,
+    "name": "D-Roy Rinker",
+    "native": "\u30c7\u30a3\u30fb\u30ed\u30a4\u30fb\u30ea\u30f3\u30ab\u30fc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1153.jpg",
+    "alternative": []
+  },
+  "Michiru Ogawa": {
+    "id": 22851,
+    "name": "Michiru Ogawa",
+    "native": "\u5c0f\u5ddd\u307f\u3061\u308b",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22851.jpg",
+    "alternative": []
+  },
+  "Kanisawa": {
+    "id": 22904,
+    "name": "Kanisawa",
+    "native": null,
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22904.jpg",
+    "alternative": []
+  },
+  "Findorr Calius": {
+    "id": 15795,
+    "name": "Findorr Calius",
+    "native": "\u30d5\u30a3\u30f3\u30c9\u30fc\u30eb\u30fb\u30ad\u30e3\u30ea\u30a2\u30b9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15795.jpg",
+    "alternative": []
+  },
+  "Souken Ishida": {
+    "id": 22844,
+    "name": "Souken Ishida",
+    "native": "\u77f3\u7530\u5b97\u5f26",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22844.jpg",
+    "alternative": []
+  },
+  "Giriko Kutsuzawa": {
+    "id": 38568,
+    "name": "Giriko Kutsuzawa",
+    "native": "\u6c93\u6ca2\u30ae\u30ea\u30b3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38568.jpg",
+    "alternative": []
+  },
+  "Moe Shishigawara": {
+    "id": 42938,
+    "name": "Moe Shishigawara",
+    "native": "\u7345\u5b50\u6cb3\u539f\u840c\u7b11",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42938.jpg",
+    "alternative": [
+      "Sushigawara"
+    ]
+  },
+  "Ryuunosuke Yuki": {
+    "id": 57685,
+    "name": "Ryuunosuke Yuki",
+    "native": "\u884c\u6728\u7adc\u4e4b\u4ecb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57685-ecKnnXmh3Rvf.png",
+    "alternative": []
+  },
+  "Hidetomo Kajoumaru": {
+    "id": 65091,
+    "name": "Hidetomo Kajoumaru",
+    "native": "\u53ef\u57ce\u4e38\u79c0\u671d",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65091-tHg1jsqbwamD.png",
+    "alternative": []
+  },
+  "Edrad Liones": {
+    "id": 1155,
+    "name": "Edrad Liones",
+    "native": "\u30a8\u30c9\u30e9\u30c9\u30fb\u30ea\u30aa\u30cd\u30b9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1155.jpg",
+    "alternative": []
+  },
+  "Zennosuke Kurumadani": {
+    "id": 9509,
+    "name": "Zennosuke Kurumadani",
+    "native": "\u8eca\u8c37\u5584\u4e4b\u52a9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9509-pRhyyXzY9zCY.jpg",
+    "alternative": []
+  },
+  "Ayon": {
+    "id": 22388,
+    "name": "Ayon",
+    "native": "\u30a2\u30e8\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22388.jpg",
+    "alternative": [
+      "Allon"
+    ]
+  },
+  "Sentarou Kotsubaki": {
+    "id": 22846,
+    "name": "Sentarou Kotsubaki",
+    "native": "\u5c0f\u693f\u4ed9\u592a\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22846.jpg"
+  },
+  "Misato Ochi": {
+    "id": 22854,
+    "name": "Misato Ochi",
+    "native": "\u8d8a\u667a\u7f8e\u8aed",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22854.jpg",
+    "alternative": []
+  },
+  "Sora Inoue": {
+    "id": 27739,
+    "name": "Sora Inoue",
+    "native": "\u4e95\u4e0a\u660a",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27739.jpg",
+    "alternative": []
+  },
+  "NaNaNa Najahkoop": {
+    "id": 64665,
+    "name": "NaNaNa Najahkoop",
+    "native": "\u30ca\u30ca\u30ca\u30fb\u30ca\u30b8\u30e3\u30fc\u30af\u30fc\u30d7",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64665-HLU41woWfxb7.png"
+  },
+  "BG9": {
+    "id": 87083,
+    "name": "BG9",
+    "native": "\u30d9\u30fc\u30fb\u30b2\u30fc\u30fb\u30ce\u30a4\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87083-4RvUZ2MOdyIG.png"
+  },
+  "Mera Hiuchigashima": {
+    "id": 295190,
+    "name": "Mera Hiuchigashima",
+    "native": "\u71e7\u30f6\u5cf6\u30e1\u30e9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295190-YHbzn7UdyZ3v.png",
+    "alternative": []
+  },
+  "Niko Kuna": {
+    "id": 313048,
+    "name": "Niko Kuna",
+    "native": "\u4e45\u5357\u30cb\u30b3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313048-qiaTWNMglEmG.png"
+  },
+  "Fishbone D": {
+    "id": 9362,
+    "name": "Fishbone D",
+    "native": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30dc\u30fc\u30f3D",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9362.jpg",
+    "alternative": []
+  },
+  "Ginrei Kuchiki": {
+    "id": 22845,
+    "name": "Ginrei Kuchiki",
+    "native": "\u673d\u6728\u9280\u5dba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22845.jpg",
+    "alternative": []
+  },
+  "Yasochika Iemura": {
+    "id": 22875,
+    "name": "Yasochika Iemura",
+    "native": "\u4f0a\u6c5f\u6751\u516b\u5341\u5343\u548c",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22875.jpg",
+    "alternative": []
+  },
+  "Acidwire": {
+    "id": 22956,
+    "name": "Acidwire",
+    "native": "\u30a2\u30b7\u30c3\u30c9\u30ef\u30a4\u30e4\u30fc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22956.jpg",
+    "alternative": []
+  },
+  "Kakyou": {
+    "id": 38567,
+    "name": "Kakyou",
+    "native": "\u6b4c\u5321",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38567.jpg",
+    "alternative": [
+      "Kaname Tosen's friend"
+    ]
+  },
+  "Royd Lloyd": {
+    "id": 71347,
+    "name": "Royd Lloyd",
+    "native": "\u30ed\u30a4\u30c9\u30fb\u30ed\u30a4\u30c9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71347-bfFfy7nQlitg.png",
+    "alternative": [
+      "The Yourself"
+    ]
+  },
+  "Asuka Katakura": {
+    "id": 72107,
+    "name": "Asuka Katakura",
+    "native": "\u7247\u5009\u98db\u9ce5",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72107-L3h4P3v1E0ta.png",
+    "alternative": []
+  },
+  "Izumi Ishida": {
+    "id": 295156,
+    "name": "Izumi Ishida",
+    "native": "\u77f3\u7530\u4f9d\u6f84",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295156-lwp8lB1QjszT.png",
+    "alternative": []
+  },
+  "Shawlong Qu Fong": {
+    "id": 1156,
+    "name": "Shawlong Qu Fong",
+    "native": "\u30b7\u30e3\u30a6\u30ed\u30f3\u30fb\u30af\u30fc\u30d5\u30a1\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1156.jpg",
+    "alternative": []
+  },
+  "Yuuichi Shibata": {
+    "id": 10139,
+    "name": "Yuuichi Shibata",
+    "native": "\u67f4\u7530\u512a\u4e00",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10139.jpg",
+    "alternative": []
+  },
+  "Rudbornn Chelute": {
+    "id": 16303,
+    "name": "Rudbornn Chelute",
+    "native": "\u30eb\u30c9\u30dc\u30fc\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16303.jpg",
+    "alternative": []
+  },
+  "Rikichi Yuki": {
+    "id": 22878,
+    "name": "Rikichi Yuki",
+    "native": "\u884c\u6728\u7406\u5409",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22878.jpg",
+    "alternative": []
+  },
+  "Nirgge Parduoc": {
+    "id": 22942,
+    "name": "Nirgge Parduoc",
+    "native": "\u30cb\u30eb\u30b2\u30fb\u30d1\u30eb\u30c9\u30a5\u30c3\u30af",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22942.jpg",
+    "alternative": []
+  },
+  "Shun'ou": {
+    "id": 31388,
+    "name": "Shun'ou",
+    "native": "\u821c\u685c",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31388.jpg",
+    "alternative": []
+  },
+  "Lumina": {
+    "id": 45773,
+    "name": "Lumina",
+    "native": "\u30eb\u30df\u30fc\u30ca",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45773.jpg",
+    "alternative": []
+  },
+  "Shino": {
+    "id": 57687,
+    "name": "Shino",
+    "native": "\u5fd7\u4e43",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57687.jpg",
+    "alternative": []
+  },
+  "Loyd Lloyd": {
+    "id": 71345,
+    "name": "Loyd Lloyd",
+    "native": "\u30ed\u30a4\u30c9\u30fb\u30ed\u30a4\u30c9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/71345.jpg",
+    "alternative": [
+      "The Yourself"
+    ]
+  },
+  "Genshirou Okikiba": {
+    "id": 72101,
+    "name": "Genshirou Okikiba",
+    "native": "\u6c96\u7259\u6e90\u5fd7\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/72101.jpg",
+    "alternative": []
+  },
+  "Rikuu Togakushi": {
+    "id": 72103,
+    "name": "Rikuu Togakushi",
+    "native": "\u6238\u96a0\u674e\u7a7a",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72103-wgx9PGDMLLnW.png",
+    "alternative": []
+  },
+  "Gantenbainne Mosqueda": {
+    "id": 22847,
+    "name": "Gantenbainne Mosqueda",
+    "native": "\u30ac\u30f3\u30c6\u30f3\u30d0\u30a4\u30f3\u30fb\u30e2\u30b9\u30b1\u30fc\u30c0",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22847.jpg",
+    "alternative": []
+  },
+  "Tetsuo Momohara": {
+    "id": 22856,
+    "name": "Tetsuo Momohara",
+    "native": "\u6843\u539f\u9244\u751f",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22856.jpg",
+    "alternative": []
+  },
+  "Rika Furude": {
+    "id": 1534,
+    "name": "Rika Furude",
+    "native": "\u53e4\u624b\u68a8\u82b1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1534-CtOvaSPOMZne.png"
+  },
+  "Rena Ryuuguu": {
+    "id": 1427,
+    "name": "Rena Ryuuguu",
+    "native": "\u7adc\u5bae\u30ec\u30ca",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1427-28AR4oy0y2Hw.png"
+  },
+  "Shion Sonozaki": {
+    "id": 1313,
+    "name": "Shion Sonozaki",
+    "native": "\u5712\u5d0e\u8a69\u97f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1313-wLhW5uDxdhqA.png"
+  },
+  "Mion Sonozaki": {
+    "id": 1611,
+    "name": "Mion Sonozaki",
+    "native": "\u5712\u5d0e\u9b45\u97f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1611-z9SVkC9loi4y.png"
+  },
+  "Satoko Houjou": {
+    "id": 1612,
+    "name": "Satoko Houjou",
+    "native": "\u5317\u6761\u6c99\u90fd\u5b50",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1612-lL5sulSea1fZ.png"
+  },
+  "Keiichi Maebara": {
+    "id": 1851,
+    "name": "Keiichi Maebara",
+    "native": "\u524d\u539f\u572d\u4e00",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1851-stMK6YF2jvhS.png"
+  },
+  "Hanyuu Furude": {
+    "id": 3128,
+    "name": "Hanyuu Furude",
+    "native": "\u53e4\u624b\u7fbd\u5165",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3128-ms0vxrk4ZoGN.png"
+  },
+  "Miyo Takano": {
+    "id": 4934,
+    "name": "Miyo Takano",
+    "native": "\u9df9\u91ce\u4e09\u56db",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4934-hyXYSNh1Yqtu.jpg"
+  },
+  "Kuraudo Ooishi": {
+    "id": 3775,
+    "name": "Kuraudo Ooishi",
+    "native": "\u5927\u77f3\u8535\u4eba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3775-CQOkJnyiCThk.png"
+  },
+  "Satoshi Houjou": {
+    "id": 1852,
+    "name": "Satoshi Houjou",
+    "native": "\u5317\u6761\u609f\u53f2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1852-O8PeTxF1DodX.png"
+  },
+  "Mamoru Akasaka": {
+    "id": 7183,
+    "name": "Mamoru Akasaka",
+    "native": "\u8d64\u5742\u885b",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7183-JpCfOWyceYlW.png"
+  },
+  "Kyousuke Irie": {
+    "id": 7445,
+    "name": "Kyousuke Irie",
+    "native": "\u5165\u6c5f\u4eac\u4ecb",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7445-X8OacDAXCwqK.png"
+  },
+  "Eua": {
+    "id": 212187,
+    "name": "Eua",
+    "native": "\u30a8\u30a6\u30a2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212187-d2JYFn1H2VzW.png"
+  },
+  "Jirou Tomitake": {
+    "id": 10024,
+    "name": "Jirou Tomitake",
+    "native": "\u5bcc\u7af9\u30b8\u30ed\u30a6",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10024-Bu0fiJR4Iz9x.jpg"
+  },
+  "Rumiko Chie": {
+    "id": 6696,
+    "name": "Rumiko Chie",
+    "native": "\u77e5\u6075\u7559\u7f8e\u5b50",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6696-hxF6CrBnVSYE.png"
+  },
+  "Akane Sonozaki": {
+    "id": 11935,
+    "name": "Akane Sonozaki",
+    "native": "\u5712\u5d0e\u831c",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11935-mdgzVhqStw5I.png"
+  },
+  "Juuza Amakusa": {
+    "id": 21244,
+    "name": "Juuza Amakusa",
+    "native": "\u5929\u8349\u5341\u4e09",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21244-yaWSQ1pQaKBr.png"
+  },
+  "Teppei Houjou": {
+    "id": 9464,
+    "name": "Teppei Houjou",
+    "native": "\u5317\u6761\u9244\u5e73",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9464-o4p2oDIloadU.jpg"
+  },
+  "Oryou Sonozaki": {
+    "id": 9481,
+    "name": "Oryou Sonozaki",
+    "native": "\u5712\u5d0e\u304a\u9b4e",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9481-A5LPr9vcwiOm.png"
+  },
+  "Tetsuro Okonogi": {
+    "id": 21243,
+    "name": "Tetsuro Okonogi",
+    "native": "\u5c0f\u6b64\u6728\u9244\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21243-IqmYXKE1NB08.jpg"
+  },
+  "Nomura": {
+    "id": 7243,
+    "name": "Nomura",
+    "native": "\u91ce\u6751",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7243-YvsypDV78WuZ.png"
+  },
+  "Aiko Maebara": {
+    "id": 236530,
+    "name": "Aiko Maebara",
+    "native": "\u524d\u539f\u85cd\u5b50",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b236530-FGPLOUx3ZMLd.png"
+  },
+  "Kiichirou Kimiyoshi": {
+    "id": 14929,
+    "name": "Kiichirou Kimiyoshi",
+    "native": "\u516c\u7531\u559c\u4e00\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14929-Pz9C3YPFo8s5.jpg"
+  },
+  "Hifumi Takano": {
+    "id": 56055,
+    "name": "Hifumi Takano",
+    "native": "\u9ad8\u91ce\u4e00\u4e8c\u4e09",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56055-wqBS5GTBwk7F.png"
+  },
+  "Ichirou Maebara": {
+    "id": 236531,
+    "name": "Ichirou Maebara",
+    "native": "\u524d\u539f\u4f0a\u77e5\u90ce",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b236531-BK2oPfzxtOjH.png"
+  },
+  "Daiki Tomita": {
+    "id": 252948,
+    "name": "Daiki Tomita",
+    "native": "\u5bcc\u7530\u5927\u6a39",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252948-BpWbTXvdZ0h3.png"
+  },
+  "Hyourinmaru": {
+    "id": 25881,
+    "name": "Hyourinmaru",
+    "native": "\u6c37\u8f2a\u4e38",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25881.jpg"
+  },
+  "Pernida  Parnkgjas": {
+    "id": 165028,
+    "name": "Pernida  Parnkgjas",
+    "native": "\u30da\u30eb\u30cb\u30c0\u30fb\u30d1\u30eb\u30f3\u30ab\u30b8\u30e3\u30b9",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165028-IIBzshflHFcY.png"
+  },
+  "Robert Accutrone": {
+    "id": 284513,
+    "name": "Robert Accutrone",
+    "native": "\u30ed\u30d0\u30fc\u30c8\u30fb\u30a2\u30ad\u30e5\u30c8\u30ed\u30f3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284513-eLtojz66DHJn.png"
+  },
+  "Hiyosu": {
+    "id": 22890,
+    "name": "Hiyosu",
+    "native": "\u9d6f\u5dde",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22890-qDVOXNNnQslF.png"
+  }
+}
