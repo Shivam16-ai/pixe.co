@@ -19,15 +19,40 @@ After seeding, the sample customer account is `collector@pixe.co` with password
 `.env` (the email defaults to `admin@pixe.co`). Change the sample credentials
 before using seeded accounts in a publicly accessible deployment.
 
-## Deployment
+## Deploy on Fly.io
 
-The app requires its Express/Socket.IO server and database; deploying only the
-static `dist` files will leave API requests unavailable. The simplest setup is
-to build and run the app on one Node.js host (`npm run build`, then `npm start`),
-with the database and secrets configured on that host. Keep the frontend and
-backend on the same origin when possible.
+The Express server serves the frontend, API, and Socket.IO from one origin. Do
+not deploy only the static `dist` folder: it does not include the API. The Fly
+configuration keeps the SQLite database and uploaded images on a persistent
+volume and probes `/api/health`.
 
-If hosting the frontend separately, set `VITE_API_BASE_URL` to the backend
-origin when building the frontend, and set `FRONTEND_URL` on the backend to the
-frontend origin. The frontend host must also rewrite app routes such as `/login`
-to `index.html` (SPA fallback). Use HTTPS for production authentication cookies.
+1. Install `flyctl`, sign in with `fly auth login`, and replace the example
+   `app` name in `fly.toml` with a globally unique Fly app name. Set `APP_URL`
+   and `FRONTEND_URL` in the same file to `https://<app-name>.fly.dev`.
+2. Create the app and its persistent volume in the configured region:
+   ```sh
+   fly apps create <app-name>
+   fly volumes create pixe_data --region bom --size 1 --app <app-name>
+   ```
+3. Set a strong JWT secret and admin password as Fly secrets (do not commit
+   these values):
+   ```sh
+   fly secrets set JWT_SECRET="<long-random-secret>" ADMIN_PASSWORD="<strong-admin-password>" --app <app-name>
+   ```
+4. Deploy the app:
+   ```sh
+   fly deploy --app <app-name>
+   ```
+5. Initialize the database and seed the admin and sample data on the running
+   machine:
+   ```sh
+   fly ssh console --app <app-name> -C "npm run db:migrate"
+   fly ssh console --app <app-name> -C "npm run db:seed"
+   ```
+6. Open `https://<app-name>.fly.dev`. Use the `ADMIN_EMAIL` (defaults to
+   `admin@pixe.co`) and `ADMIN_PASSWORD` secret to sign in as admin.
+
+For this single-origin deployment, leave `VITE_API_BASE_URL` empty. The
+frontend, API, and login cookie will all use the Fly HTTPS domain. The
+preconfigured SQLite volume is intended for a single Fly machine; back it up
+regularly and do not scale this setup to multiple machines.

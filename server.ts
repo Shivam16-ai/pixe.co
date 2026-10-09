@@ -70,7 +70,8 @@ app.use('/api/products', productRouter);
 app.use('/api/search', searchRouter);
 app.use('/api/upload', uploadRouter);
 
-app.use('/uploads', express.static(path.resolve(process.cwd(), 'uploads')));
+const uploadsDir = path.resolve(process.env.UPLOADS_DIR || 'uploads');
+app.use('/uploads', express.static(uploadsDir));
 
 app.get('/api/health', async (_req: Request, res: Response) => {
   try {

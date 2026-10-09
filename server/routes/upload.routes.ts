@@ -4,7 +4,7 @@ import path from 'path';
 
 export const uploadRouter = Router();
 
-const UPLOADS_DIR = path.resolve(process.cwd(), 'uploads');
+const UPLOADS_DIR = path.resolve(process.env.UPLOADS_DIR || 'uploads');
 if (!fs.existsSync(UPLOADS_DIR)) {
   fs.mkdirSync(UPLOADS_DIR, { recursive: true });
 }

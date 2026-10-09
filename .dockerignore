@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+!.env.example
+node_modules
+dist
+build
+coverage
+__pycache__
+cookies.txt
+prisma/*.db
+uploads
+npm-debug.log*
