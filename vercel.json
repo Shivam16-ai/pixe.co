@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/login", "destination": "/" },
+    { "source": "/portal", "destination": "/" },
+    { "source": "/portal/:path*", "destination": "/" },
+    { "source": "/archive", "destination": "/" },
+    { "source": "/archive/:path*", "destination": "/" },
+    { "source": "/favorites", "destination": "/" }
+  ]
+}

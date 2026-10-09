@@ -1,4 +1,5 @@
 import type { UserSession } from '../types';
+import { API_BASE_URL } from './config';
 
 export type ApiResponse<T> = {
   success: boolean;
@@ -17,7 +18,7 @@ export type ApiResponse<T> = {
 };
 
 async function request<T>(path: string, options: RequestInit = {}): Promise<T> {
-  const response = await fetch(path, {
+  const response = await fetch(`${API_BASE_URL}${path}`, {
     credentials: 'include',
     headers: {
       'Content-Type': 'application/json',

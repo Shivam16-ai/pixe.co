@@ -1,4 +1,5 @@
 import { io, type Socket } from 'socket.io-client';
+import { API_BASE_URL } from './config';
 
 let socket: Socket | null = null;
 
@@ -8,7 +9,7 @@ export function getSocket() {
   }
 
   if (!socket || socket.disconnected) {
-    socket = io(window.location.origin, {
+    socket = io(API_BASE_URL || window.location.origin, {
       withCredentials: true,
       transports: ['websocket', 'polling'],
     });
