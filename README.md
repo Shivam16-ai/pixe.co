@@ -56,3 +56,23 @@ For this single-origin deployment, leave `VITE_API_BASE_URL` empty. The
 frontend, API, and login cookie will all use the Fly HTTPS domain. The
 preconfigured SQLite volume is intended for a single Fly machine; back it up
 regularly and do not scale this setup to multiple machines.
+
+### Google sign-in
+
+Configure the OAuth client in Google Cloud Console with the app's origin as an
+authorized JavaScript origin and
+`https://<app-name>.fly.dev/api/auth/google/callback` as an authorized redirect
+URI. For local development, use `http://localhost:3000` and
+`http://localhost:3000/api/auth/google/callback`.
+
+For Fly, set the client ID, rotated client secret, and exact callback URL as
+server secrets:
+
+```sh
+fly secrets set GOOGLE_CLIENT_ID="<client-id>" GOOGLE_CLIENT_SECRET="<rotated-client-secret>" GOOGLE_CALLBACK_URL="https://<app-name>.fly.dev/api/auth/google/callback" --app <app-name>
+```
+
+Restart/redeploy after updating these settings. The Google client secret must
+only be configured on the backend and must never be committed or included in
+frontend `VITE_` variables. Google sign-in creates customer accounts; admin
+accounts must continue to use password sign-in.

@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { ArrowLeft, Check, Lock, Mail, User, Eye, EyeOff, ShieldCheck, Sparkles } from 'lucide-react';
 import { VideoScenePlayer } from '../VideoScenePlayer';
 import { playPaperTapSound, playShutterSound } from '../../utils/audio';
 import { UserSession } from '../../types';
 import { authApi } from '../../lib/api';
+import { API_BASE_URL } from '../../lib/config';
 
 interface LoginPageProps {
   onBackToLanding: () => void;
@@ -46,6 +47,67 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onBackToLanding, onLoginSu
   // Animation states
   const [authStatus, setAuthStatus] = useState<'idle' | 'authenticating' | 'success'>('idle');
   const [authMessage, setAuthMessage] = useState('');
+
+  useEffect(() => {
+    const query = new URLSearchParams(window.location.search);
+    const googleStatus = query.get('google');
+    if (!googleStatus) {
+      return;
+    }
+
+    window.history.replaceState(null, '', window.location.pathname);
+
+    if (googleStatus === 'error') {
+      const errorMessages: Record<string, string> = {
+        not_configured: 'Google sign-in is not configured on the server.',
+        cancelled: 'Google sign-in was cancelled.',
+        invalid_state: 'Google sign-in expired. Please try again.',
+        token_exchange: 'Google sign-in could not be completed. Please try again.',
+        profile: 'Could not retrieve your Google profile. Please try again.',
+        unverified_email: 'Use a Google account with a verified email address.',
+        admin_account: 'Admin accounts must sign in with their password.',
+        account: 'Could not create your customer account. Please try again.',
+        authentication: 'Google sign-in failed. Please try again.',
+      };
+      setAuthMessage(errorMessages[query.get('reason') || ''] || errorMessages.authentication);
+      return;
+    }
+
+    if (googleStatus !== 'success') {
+      return;
+    }
+
+    let active = true;
+    setAuthStatus('authenticating');
+    setAuthMessage('VERIFYING GOOGLE ACCOUNT...');
+
+    void authApi.me().then((response) => {
+      if (!active) {
+        return;
+      }
+      if (!response.user) {
+        throw new Error('Google sign-in did not create a valid session.');
+      }
+
+      onLoginSuccess({
+        role: response.user.role === 'admin' ? 'admin' : 'customer',
+        name: response.user.name || 'Collector',
+        email: response.user.email || '',
+        avatar: response.user.avatar ?? undefined,
+        memberSince: response.user.memberSince,
+      });
+    }).catch((error: unknown) => {
+      if (!active) {
+        return;
+      }
+      setAuthStatus('idle');
+      setAuthMessage(error instanceof Error ? error.message : 'Could not verify your Google session.');
+    });
+
+    return () => {
+      active = false;
+    };
+  }, []);
 
   const executeLogin = async (role: 'customer' | 'admin', userName: string, userEmail: string) => {
     playShutterSound();
@@ -130,11 +192,8 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onBackToLanding, onLoginSu
     }
   };
 
-  const handleGoogleLogin = async () => {
-    const demoCustomer = DEMO_CREDENTIALS.customer;
-    setEmail(demoCustomer.email);
-    setPassword(demoCustomer.password);
-    await executeLogin('customer', 'Google Collector', demoCustomer.email);
+  const handleGoogleLogin = () => {
+    window.location.assign(`${API_BASE_URL}/api/auth/google`);
   };
 
   return (
@@ -300,6 +359,12 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onBackToLanding, onLoginSu
                 </div>
               ) : mode === 'login' ? (
                 /* LOGIN FORM */
+                <>
+                {authMessage && (
+                  <p role="alert" className="mb-4 rounded-lg border border-red-500/30 bg-red-950/30 px-3 py-2 text-sm text-red-200">
+                    {authMessage}
+                  </p>
+                )}
                 <form onSubmit={handleFormSubmit} className="space-y-4">
                   <div className="space-y-1.5">
                     <label className="block text-xs font-mono uppercase tracking-wider text-[#E8DDC8]/80">
@@ -393,8 +458,15 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onBackToLanding, onLoginSu
                     <span>CONTINUE WITH GOOGLE</span>
                   </button>
                 </form>
+                </>
               ) : (
                 /* CREATE ACCOUNT FORM */
+                <>
+                {authMessage && (
+                  <p role="alert" className="mb-4 rounded-lg border border-red-500/30 bg-red-950/30 px-3 py-2 text-sm text-red-200">
+                    {authMessage}
+                  </p>
+                )}
                 <form onSubmit={handleFormSubmit} className="space-y-3.5">
                   <div className="space-y-1">
                     <label className="block text-xs font-mono uppercase tracking-wider text-[#E8DDC8]/80">
@@ -454,6 +526,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onBackToLanding, onLoginSu
                     CREATE ACCOUNT
                   </button>
                 </form>
+                </>
               )}
 
             </div>
