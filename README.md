@@ -43,10 +43,10 @@ volume and probes `/api/health`.
    ```sh
    fly deploy --app <app-name>
    ```
-5. Initialize the database and seed the admin and sample data on the running
-   machine:
+   On first startup, the app initializes the schema on the empty persistent
+   database volume. Existing databases are not automatically migrated.
+5. Seed the admin and sample data on the running machine:
    ```sh
-   fly ssh console --app <app-name> -C "npm run db:migrate"
    fly ssh console --app <app-name> -C "npm run db:seed"
    ```
 6. Open `https://<app-name>.fly.dev`. Use the `ADMIN_EMAIL` (defaults to
